@@ -53,7 +53,9 @@
 <br>
 ### 自定义语言包
 <br><br>
-<br>![image](https://github.com/huisedediao/XBLocalizedString/raw/master/show.png)
+<br>
+### 效果图：
+![image](https://github.com/huisedediao/XBLocalizedString/raw/master/show.png)<br/>
 <br><br>以上图的语言包为例，设置方法如下
 <pre>
 	#define XBLocalizedString_test1(key, comment)   \
