@@ -1,6 +1,6 @@
 # XBLocalizedString
 从自定义的语言包对文本进行翻译<br>
-###应用场景
+### 应用场景
 <br>1.公司的某个App是由公司旗下其他几个App合并而成的，造成对语言进行国际化时，如果用NSLocalizedString有些翻译会重复。为了让多个子App合并后不影响翻译，为每个子App都设置独立的语言包。
 <br>2.用于热切换App显示的语言
 <br><br><br>
@@ -54,6 +54,7 @@
 ### 自定义语言包
 <br><br>
 <br>
+![image](https://github.com/huisedediao/XBAlertView/raw/master/showNew.png)<br/>
 ![image](https://github.com/huisedediao/XBLocalizedString/raw/master/show.png)
 <br><br>以上图的语言包为例，设置方法如下
 <pre>
