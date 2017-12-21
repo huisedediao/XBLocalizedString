@@ -6,7 +6,7 @@
 <br><br><br>
 ### 使用：
 <br>
-#### 从自定义语言包的内容翻译文件
+### 从自定义语言包的内容翻译文件
 <pre>
 
     /*
@@ -51,9 +51,9 @@
 
 </pre>
 <br>
-#### 自定义语言包
+### 自定义语言包
 <br><br>
-<br>![image](https://github.com/huisedediao/XBLocalizedString/raw/master/showImg)<br/>
+<br>![image](https://github.com/huisedediao/XBLocalizedString/raw/master/showImg.png)<br/>
 <br><br>以上图的语言包为例，设置方法如下
 <pre>
 	#define XBLocalizedString_test1(key, comment)   \
