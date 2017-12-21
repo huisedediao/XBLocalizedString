@@ -5,7 +5,7 @@
 <br>2.用于热切换App显示的语言
 <br><br><br>
 ### 使用：
-![image](https://github.com/huisedediao/XBAlertView/raw/master/showNew.png)<br/>
+
 <br>
 ### 从自定义语言包的内容翻译文件
 <pre>
