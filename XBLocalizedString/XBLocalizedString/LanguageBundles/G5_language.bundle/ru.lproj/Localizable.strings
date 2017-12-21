@@ -1,0 +1,267 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "120";
+"VolAndDurationComponent2With" = "120";
+"VolAndDurationComponent2TextMoveWidth" = "25";
+
+"AlertPromptCheckBoxPosY" = "50";
+
+"APPDISPLAYNAME" = "G5 тревога";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+"G5 ALARM"="G5 Plus тревога";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Зона 1 тревога";
+"Zone 2 alarm" = "Зона 2 тревога";
+"Zone 3 alarm" = "Зона 3 тревога";
+"Zone 4 alarm" = "Зона 4 тревога";
+
+"System Activated"="Cистема Активированный";
+"Normal Zone Activated"="Hормальной зоны Активированный";
+"Home Zone Deactivated"="Домашняя зона Деактивировано";
+"System Deactivated"="Cистема Деактивировано";
+
+"Mute" = "Нет звука";
+"Low" = "Низкая";
+"Medium" = "Средняя";
+"High" = "Высокая";
+
+"Please waiting..." = "Пожалуйста, ждите …";
+"Please input the host name" = "Введите имя контр. панели";
+"Please input the host number" = "Ввидите номер SIM карты";
+"The host name already exists" = "Имя панели уже существует";
+"The host number already exists" = "Номер SIM карты уже существует";
+
+"Accounts" = "Аккаунт";
+"Edit" = "Изменить";
+"Done" = "Готово";
+"Back" = "Назад";
+"Save" = "Сохранить";
+"Cancel" = "Отменить";
+
+"Add Host Account" = "Добавить Аккаунт";
+"Edit Host Account" = "Редактировать Аккаунт";
+"Host Name" = "Имя контр. Панели";
+"Host Number" = "Номер SIM карты контр. Панели";
+
+"Disarm" = "Отключить";
+"Arm" = "Включить";
+"Call-back Monitor" = "РАЗГОВОР";
+"Modify Host Language" = "Настройка языка системы";
+"Store Phone Numbers" = "Записать номера телефонов";
+"Change Zone Name" = "Изменить имя зоны";
+"Delay Time" = "Установить время задержки";
+"System arm delay time" = "Время задержки постановки системы на охрану";
+"Siren Volume & Ring Time" = "Громкость сирены и время работы";
+"Phone" = "Звонок";
+"Seconds" = "Секунды";
+"Mins" = "Минуты";
+
+"Choose a siren volume" = "Установить громкость сирены";
+"Choose a ring time" = "Установить время работы сирены";
+"Please input phone number" = "Ввидите номер телефона";
+
+"Zone information more than %i characters, please correct." = "Информация о зоне больше %i знаков";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Если вам нравится пользоваться %@, то не возражаетет ли вы ознакомиться с ней? Это не займет у вас более минуты. Спасибо за поддержку!";
+"Rate %@" = "Уровень %@";
+"No, Thanks" = "Нет, Спасибо";
+"Remind me later" = "Напомните мне позже";
+
+"No longer prompted" = "Напомните мне позже";
+"Please wait for the alarm host to reply to confirmation SMS" = "Ждите SMS подтвержения";
+"I have received the confirmation SMS" = "SMS подтверждение получено";
+
+"Volume" = "Громкость ";
+"Time" = "Время";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Голосовое";
+"Set Alarm At Family" = "Режим дома";
+"Query Settings" = "Запрос параметров Настройки";
+
+"Store Phone & SMS Numbers" = "Номера Телефонов и SMS Номера";
+"RFID Card SMS Notification Number" = "SMS Номера для RFID Карт";
+"One Key Pass Number" = "Записать Номер Быстрого Набора";
+
+"Credit Card User Name" = "Заменить Имена RFID Карт";
+"Disarm Password" = "Пароль для отключения";
+"Independent Zone Delay Time" = "Задержка времени опред. зоны";
+"Single zone alarm delay time" = "Время задержки сигнализации для одной зоны";
+
+"Disarm password(4-6 Digits), please correct." = "Пароль превышает 4-6 цифр, исправьте";
+"RFID tags SMS notice more than %i characters, please correct." = "Имя RFID карты превышает %i знаков.";
+
+"child" = "Дети вернулись домой из школы";
+"Nurse" = "Няня вернулась домой из магазина";
+"Xiao Ming" = "Елена пришел с работы";
+"Xiao Dong" = "Лена пришел с работы";
+
+"Enter the number of characters that can not be over %i." = "Количество знаков превышает %i.";
+
+"Remove RFID Card" = "удалить RFID";
+
+//************密码设置****************
+"APP CODE"="Пароль";
+"ON"="Включить";
+"OFF"="Выключить";
+"Password Lock"="Защита паролем";
+"Enter Passcode"="Введите пароль";
+"Re-enter your passcode"="Повторно введите пароль";
+"Passcode did not match.Try again."="Неверный пароль. Введите повторно.";
+"View camera"="Посмотреть камера";
+
+
+//重复日期
+"Timing"="Время";
+"Action"="действие";
+"Repeat"="Повторять";
+"Mon."="Пн.";
+"Tue."="Вт.";
+"Wed."="Ср.";
+"Thu."="Чт.";
+"Fri."="Сб.";
+"Sat."="Сб.";
+"Sun."="Вс.";
+"Never"="Никогда";
+"Everyday"="Ежедневно";
+"Timed Arm/Disarm"="Время";
+
+
+//IPC
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Убедитесь, что ваш телефон подключен с Wi-Fi";
+"IPC_REQ_FAIL"="Запрос не выполнен";
+"IPC_USENAME_NOT_EXIST"="Имя пользователя не существует";
+"IPC_NEXT"="Далее";
+"IPC_TIPS"="Примечание";
+"IPC_BE_LOGO_OUT"="Аккаунт используется другим пользователем. Вы не в сети";
+"IPC_LOGO_BE_OVERDUE"="Соединение с сервером потеряно, повторите авторизацию";
+"IPC_LOGO_BE_UNABLE_NET"="Вы не в сети по причине неустойчивой работы сети";
+"IPC_GET_STARTED"="Начало работы";
+"IPC_CONNECT_DEVICE_FAIL"="Не удалось подключиться к сети";
+"IPC_LOGOIN_FAIL"="Авторизация не выполнена";
+"IPC_LOGOIN_ING"="Авторизация...";
+"IPC_SAVE_PWD"="Запомнить пароль";
+"IPC_LOGOIN"="Войти";
+"IPC_FORGET_BTN_PWD"="Забыли пароль";
+"IPC_REGISTER"="Регистрация";
+"IPC_PWD_OR_USENAME_ERROR"="Неверный пароль";
+"IPC_PLEASE_INPUT_USENAME"="Введите имя пользователя";
+"IPC_PLEASE_INPUT_PWD"="Введите пароль";
+"IPC_GET_DEVICE_FAILED"="Не удалость получить список камер";
+"IPC_INPUT_EMAIL"="Введите адрес электронной почты";
+"IPC_PLEASE_INPUT_REPWD"="Подтвердить пароль";
+"IPC_Vertification_LOC"="Получить защитный код";
+"IPC_PLEASE_INPUT_ID_CODE"="Ввеcти защитный код";
+"IPC_PWD_NOT_SAME"="Пароль не совпадает";
+"IPC_INPUT_VAILD_EMAIL"="Неверный формат электронной почты";
+"IPC_PWD_VALID_JUDGE"="Пароль должен быть длиннее 6 знаков и состоять из цифр и букв";
+"IPC_REGISTER_NAME_BE_USED"="Учетная запись зарегистрирована";
+"IPC_REGISTER_IDCODE_ERROR"="Неверный защитный код";
+"IPC_GET_IDCODE_FAIL"="Не удалось отправить защитный код";
+"IPC_IDCODE_SENDED_TO_EMAIL"="Защитный код отправлен на адрес вашей электронной почты";
+"IPC_Registration_successfully"="Регистрация выполнена успешно";
+"IPC_REGISTER_FAIL"="Регистрация не выполнена";
+"IPC_PLEASE_INPUT__NEW_PWD"="Введите новый пароль";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Подтвердите новый пароль";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Пароль успешно изменен";
+"IPC_FORGET_PWD"="Сменить пароль";
+"IPC_MODIFY_FAIL"="Не удалось выполнить настройку";
+"IPC_DEVICE_UNLINE"="Устройство не в сети.";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Сетевое время истекло, попробуйте еще раз";
+"IPC_CONNECTING_DEVICE"="Подключение…";
+"IPC_CONNECTED_BUFFER_DATA"="Включение видеопотока...";
+"IPC_Shutting_down"="Выключение видеопотока...";
+"IPC_VIDEO_QUALITY"="Качество видео";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Трансляция";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Понизить";
+"IPC_LOADING_NOW"="Обновление...";
+"IPC_REAL_TIME"="Просмотр в режиме реального времени";
+"IPC_REAL_TIME1"="Kамеры";
+"IPC_ADD_DEVICE"="Добавить камеру";
+"IPC_MY_SHARE"="Совместные пользователи";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Помощь";
+"IPC_ABOUT_US"="О нас";
+"IPC_OUT_BTN"="Выйти";
+"IPC_Refresh_BTN"="Обновить";
+"IPC_ADD_CONNECT_DEVICE"="Поиск локальной камеры";
+"IPC_PLEASE_INPUT_DEVICEID"="ID устройства";
+"IPC_SMART_VOIDCE_CONNECT"="Голосовая интеллектуальная связь";
+"IPC_NO_LOCAL_DEVICE"="Камера не найдена";
+"IPC_ADD_SUCCESSED"="Камера добавлена";
+"IPC_ADD_FAIL"="Не удалось добавить камеру ";
+"IPC_ADD_BY_OTHER_USER"="Эта камера занята";
+"IPC_DEVICE_NOT_EXIST"="Эта камера не существует";
+"IPC_ADD_BE_BY_SELY"="Камера уже добавлено в список";
+"IPC_SEND_VOICE_TIPS"="Поместите телефон рядом с камерой и дождитесь сигнала-подсказки";
+"IPC_SEND_VOICE"="Отправить звуковой сигнал";
+"IPC_HAVE_GET_DEVICE_SOUND"="Вы услышали ответный сигнал устройства?";
+"IPC_YES"="Да";
+"IPC_NO"="Нет";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Автоматическое добавление камеры";
+"IPC_DEVICE_NAME"="Изменить имя камеры";
+"IPC_SHARE"="Совместное пользование";
+"IPC_DETELE_DEVICE"="Удалить камеры";
+"IPC_IS_TO_DELDETE_DEVICE"="Подтвердить удаление камеры?";
+"IPC_DEVICE_SHARE"="Совместное использование камеры";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Совместный пользователь успешно добавлен";
+"IPC_TO_DELETE_SHARE_NAME"="Подтвердить удаление совместного пользователя?";
+"IPC_IDCODE_IS_BE_FAIL"="Время действия защитного пароля вышло";
+"IPC_LOGO_OUT"="Вы действительно хотите выйти?";
+"IPC_SET"="Системные параметры настройки";
+"IPC_WIFI_SET"="Настройка WiFi";
+"IPC_NAME_FLAG"="Из";
+"IPC_MY_FOLDER"="Моя папка";
+"IPC_LOCAL_VIDEO"="Сохраненное видео";
+"IPC_LOCAL_IMAGE"="Сохраненные изображения";
+"IPC_DELETE_FAIL"="Операция не выполнена";
+"IPC_NAME_CAN_NULL"="Имя пользователя недействительно";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Пароль недействителен";
+"IPC_SAVE_IMAGE"="Сохранить";
+"IPC_SAVED_IMAGE"="Добавлено в альбоме";
+"IPC_PLEASE_ENTER_OLD_PWD"="Введите старый пароль";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Неправильный старый пароль";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="E-mail получателя";
+"IPC_DELETE_LOC"="Удалять";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Отменить";
+"IPC_ORROR_ID"="Неверный ID";
+"IPC_VIDEO_QUALITY_LOW"="Тихо";
+"IPC_VIDEO_QUALITY_SD"="Нормально";
+"IPC_VIDEO_QUALITY_HD"="Громко";
+"IPC_EDITOR"="Изменить";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="Смотрите видео в формате 720p HD\nв любое время, в любом месте";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live Video Двусторонняя связь";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Речевая связь";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Сверх-широкий угол съемки\nс разрешением 5Мп";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="Делитесь радостными мгновениями\nодним щелчком - больше возможностей";
+"IPC_FUNC_TIPS_LABEL"="HD Wi-Fi камера высокого разрешения";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"IPC_NEW_DEVICE"="Добавить новую камеру";
+"IPC_NAME_PWD_ACNT_SAME" = "Имя пользователя и пароль не могут быть одинаковыми";
+"IPC_PLACE_WAIT"         = "Пожалуйста, подождите";
+"Scan the QR code"       = "Сканировать QR-код";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "Пароль для WiFi";
+"IPC_OPERATE_SUCCESS"       = "Работа без сбоев";
+"WiFi Camera"="Realtime view";
+
+"ReEnterphoneNumber"="Повторно введите Звонок";
+"Phone numbers did not match. Try again."="Неверный Звонок. Введите повторно.";
+"Scan the QR code on the panel's back cover"="сканировать QR-кода";
+"Input the QR code"="Введите номер QR-кода";
+
+
+"Work days" = "Рабочие дни";
+"Weekends" = "Выходные";

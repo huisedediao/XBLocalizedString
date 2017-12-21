@@ -1,0 +1,269 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 Alarm";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+"G5 ALARM"="G5 Plus Alarm";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Zone 1 Alarm";
+"Zone 2 alarm" = "Zone 2 Alarm";
+"Zone 3 alarm" = "Zone 3 Alarm";
+"Zone 4 alarm" = "Zone 4 Alarm";
+
+"System Activated"="System Aktiviert";
+"Normal Zone Activated"="Normale Zone Aktiviert";
+"Home Zone Deactivated"="Homezone Deaktiviert";
+"System Deactivated"="System Deaktiviert";
+
+"Mute" = "Stumm";
+"Low" = "Leise";
+"Medium" = "Mittel";
+"High" = "Laut";
+
+"Please waiting..." = "Bitte warten …";
+"Please input the host name" = "Bitte den Namen der Zentrale eingeben";
+"Please input the host number" = "Bitte die Telefonnummer der Zentrale eingeben";
+"The host name already exists" = "Dieser Name der Zentrale existiert bereits";
+"The host number already exists" = "Diese Telefonnummer der Zentrale existiert bereits";
+
+
+"Accounts" = "Benutzerkonto";
+"Edit" = "Bearbeiten";
+"Done" = "Fertig";
+"Back" = "Zurück";
+"Save" = "Speichern";
+"Cancel" = "Abbrechen";
+
+"Add Host Account" = "Konto hinzufügen";
+"Edit Host Account" = "Konto bearbeiten";
+"Host Name" = "Name der Zentrale";
+"Host Number" = "Rufnummer der Zentrale";
+
+"Disarm" = "Deaktiviert";
+"Arm" = "Aktiviert";
+"Call-back Monitor" = "Sprechen";
+"Modify Host Language" = "Systemsprache wählen";
+"Store Phone Numbers" = "Rufnumern speichern";
+"Change Zone Name" = "Zonenname ändern";
+"Delay Time" = "Zeitverzögerung einstellen";
+"System arm delay time" = "Die Zeitverzögerung";
+"Siren Volume & Ring Time" = "Sirenenlautstärke & -dauer";
+"Phone" = "Telefon";
+"Seconds" = "Sekunden";
+"Mins" = "Minuten";
+
+"Choose a siren volume" = "Sirenenlautstärke wählen";
+"Choose a ring time" = "Sirenendauer wählen";
+"Please input phone number" = "Bitte Telefonnummer eingeben";
+
+"Zone information more than %i characters, please correct." = "Zoneninformation hat mehr als %i Zeichen. Bitte Neueingabe ";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Wenn Ihnen unser %@ gefällt, möchten wir Sie bitten, eine Bewertung abzugeben. Es wir nicht mehr als eine Minute in Anspruch nehmen. Vielen Dank für Ihre Unterstützung !";
+"Rate %@" = "Bewertung %@";
+"No, Thanks" = "Nein Danke";
+"Remind me later" = "Später erinnern";
+
+"No longer prompted" = "Nicht wieder nachfragen";
+"Please wait for the alarm host to reply to confirmation SMS" = "Bitte Bestätigungs-SMS abwarten";
+"I have received the confirmation SMS" = "Bestätigungs-SMS erhalten";
+
+"Volume" = "Lautstärke";
+"Time" = "Zeit";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Sprachmemo";
+"Set Alarm At Family" = "Teilscharf";
+"Query Settings" = "Einstellungen abfragen";
+
+"Store Phone & SMS Numbers" = "Telefonnummer und SMS-Nummer";
+"RFID Card SMS Notification Number" = "SMS-Nummer für RFID-Schlüssel";
+"One Key Pass Number" = "Kurzwahlnummer speichern";
+
+"Credit Card User Name" = "RFID-Schlüssel umbenennen";
+"Disarm Password" = "Benutzer-Code";
+"Independent Zone Delay Time" = "Verzögerung für verzögerte Melder";
+"Single zone alarm delay time" = "Die Zeitverzögerung von Einfach Zonen";
+
+"Disarm password(4-6 Digits), please correct." = "Benutzer-Code beinhaltet mehr als 4-6 Zeichen, bitte korrigieren.";
+"RFID tags SMS notice more than %i characters, please correct." = "Name des RFID-Schlüssels beinhaltet mehr als %i Zeichen, bitte korrigieren.";
+
+"child" = "Lena hat das System unscharfgeschaltet.";
+"Nurse" = "Paul ist nach Hause gekommen.";
+"Xiao Ming" = "Britta ist nach Hause gekommen."; 
+"Xiao Dong" = "Putzfrau ist da.";
+
+"Enter the number of characters that can not be over %i." = "Nicht mehr als %i Zeichen eingeben";
+
+"Remove RFID Card" = "Lösche RFID";
+
+//************密码设置****************
+"APP CODE"="Passwort";
+"ON"="ON";
+"OFF"="OFF";
+"Password Lock"="Passwortsperre";
+"Enter Passcode"="Bitte Passwort eingeben";
+"Re-enter your passcode"="Passwort erneut eingeben";
+"Passcode did not match.Try again."="Passwort stimmt nicht. Bitte erneut versuchen.";
+"View camera"="Aussicht kamera";
+
+
+//重复日期
+"Timing"="Timing";
+"Action"="Aktion";
+"Repeat"="Wiederholung";
+"Mon."="Mo.";
+"Tue."="Di.";
+"Wed."="Mi.";
+"Thu."="Do.";
+"Fri."="Fr.";
+"Sat."="Sa.";
+"Sun."="So.";
+"Never"="Nie";
+"Everyday"="Täglich";
+"Timed Arm/Disarm"="Timing";
+
+//IPC
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Achten Sie darauf, dass Ihr Telefon mit Wi-Fi verbunden ist.";
+"English"="German";
+"IPC_REQ_FAIL"="Anfrage fehlgeschlagen";
+"IPC_USENAME_NOT_EXIST"="Benutzername ist  nicht vorhanden";
+"IPC_NEXT"="Weiter";
+"IPC_TIPS"="Hinweis";
+"IPC_BE_LOGO_OUT"="Dieses Konto ist bereits angemeldet. Sie sind offline";
+"IPC_LOGO_BE_OVERDUE"="Verbindung mit dem Server verloren. Bitte erneut einloggen";
+"IPC_LOGO_BE_UNABLE_NET"="Sie sind wegen einer instabilen Internetverbindung offine";
+"IPC_GET_STARTED"="Erste Schritte";
+"IPC_CONNECT_DEVICE_FAIL"="Netzwerkverbindung fehlgeschlagen";
+"IPC_LOGOIN_FAIL"="Login fehlgeschlagen";
+"IPC_LOGOIN_ING"="Einloggen...";
+"IPC_SAVE_PWD"="Passwort speichern";
+"IPC_LOGOIN"="Anmelden";
+"IPC_FORGET_BTN_PWD"="Passwort vergessen";
+"IPC_REGISTER"="Registrieren";
+"IPC_PWD_OR_USENAME_ERROR"="Falsches Passwort";
+"IPC_PLEASE_INPUT_USENAME"="Benutzername eingeben";
+"IPC_PLEASE_INPUT_PWD"="Passwort eingeben";
+"IPC_GET_DEVICE_FAILED"="Kameraliste konnte nicht abgerufen werden";
+"IPC_INPUT_EMAIL"="E-Mail-Adresse eingeben";
+"IPC_PLEASE_INPUT_REPWD"="Passwort bestätigen";
+"IPC_Vertification_LOC"="Verifizierungscode erhalten";
+"IPC_PLEASE_INPUT_ID_CODE"="Verifizierungscode eingeben";
+"IPC_PWD_NOT_SAME"="Passwort stimmt nicht überein";
+"IPC_INPUT_VAILD_EMAIL"="Falsches E-Mail-Format";
+"IPC_PWD_VALID_JUDGE"="Passwort muss aus mehr als 6 Zeichen und darf nur aus Zahlen und Buchstaben bestehen";
+"IPC_REGISTER_NAME_BE_USED"="Konto wurde registriert";
+"IPC_REGISTER_IDCODE_ERROR"="Falscher Verifizierungscode";
+"IPC_GET_IDCODE_FAIL"="Verifizierungscode konnte nicht gesendet werden";
+"IPC_IDCODE_SENDED_TO_EMAIL"="Der Verifizierungscode wurde an Ihre E-Mail gesendet";
+"IPC_Registration_successfully"="Registrierung erfolgreich";
+"IPC_REGISTER_FAIL"="Registrierung fehlgeschlagen";
+"IPC_PLEASE_INPUT__NEW_PWD"="Neues Passwort eingeben";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Neues Passwort bestätigen";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Passwort erfolgreich geändert";
+"IPC_FORGET_PWD"="Passwort ändern";
+"IPC_MODIFY_FAIL"="Setup fehlgeschlagen";
+"IPC_DEVICE_UNLINE"="Die Kamera ist offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Netzwerk-Zeitüberschreitung, bitte versuchen Sie es noch einmal";
+"IPC_CONNECTING_DEVICE"="Verbinden…";
+"IPC_CONNECTED_BUFFER_DATA"="Video-Streaming wird gestartet...";
+"IPC_Shutting_down"="Video-Streaming wird beendet...";
+"IPC_VIDEO_QUALITY"="Videoqualität";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Freigabe";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Hinunterziehen";
+"IPC_LOADING_NOW"="Aktualisierung...";
+"IPC_REAL_TIME"="Echtzeit-Ansicht";
+"IPC_REAL_TIME1"="Echtzeit-Ansicht";
+"IPC_ADD_DEVICE"="Kamera hinzufügen";
+"IPC_MY_SHARE"="Meine Freigaben";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Hilfe";
+"IPC_ABOUT_US"="Info";
+"IPC_OUT_BTN"="Ausloggen";
+"IPC_Refresh_BTN"="Aktualisieren";
+"IPC_ADD_CONNECT_DEVICE"="Lokale Kamera suchen";
+"IPC_PLEASE_INPUT_DEVICEID"="Geräte-ID-Nummer";
+"IPC_SMART_VOIDCE_CONNECT"="Intelligente Sprachverbindung";
+"IPC_NO_LOCAL_DEVICE"="Keine Kamera gefunden";
+"IPC_ADD_SUCCESSED"="Kamera hinzugefügt";
+"IPC_ADD_FAIL"="Kamera konnte nicht hinzugefügt werden  ";
+"IPC_ADD_BY_OTHER_USER"="Die Kamera ist in Betrieb";
+"IPC_DEVICE_NOT_EXIST"="Die Kamera ist nicht vorhanden";
+"IPC_ADD_BE_BY_SELY"="Die Kamera ist bereits in Ihrer Liste";
+"IPC_SEND_VOICE_TIPS"="Halten Sie Ihr Telefon dicht an die Kamera und warten Sie auf einen Quittungston";
+"IPC_SEND_VOICE"="Sprachübertragung";
+"IPC_HAVE_GET_DEVICE_SOUND"="Haben Sie einen Antwortton vom Gerät gehört?";
+"IPC_YES"="Ja";
+"IPC_NO"="Nein";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Kamera wird im Hintergrund hinzugefügt";
+"IPC_DEVICE_NAME"="Kameranamen ändern";
+"IPC_SHARE"="Freigabe";
+"IPC_DETELE_DEVICE"="Kamera löschen";
+"IPC_IS_TO_DELDETE_DEVICE"="Löschen der Kamera bestätigen?";
+"IPC_DEVICE_SHARE"="Kamera freigeben";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Erfolgreich freigegeben";
+"IPC_TO_DELETE_SHARE_NAME"="Abbrechen der Freigabe bestätigen?";
+"IPC_IDCODE_IS_BE_FAIL"="Verifizierungscode ist abgelaufen";
+"IPC_LOGO_OUT"="Wollen Sie wirklich beenden?";
+"IPC_SET"="Systemeinstellungen";
+"IPC_WIFI_SET"="WiFi-Setup";
+"IPC_NAME_FLAG"="Von";
+"IPC_MY_FOLDER"="Mein Ordner";
+"IPC_LOCAL_VIDEO"="Gespeicherte Videos";
+"IPC_LOCAL_IMAGE"="Gespeicherte Bilder";
+"IPC_DELETE_FAIL"="Bedienung fehlgeschlagen";
+"IPC_NAME_CAN_NULL"="Benutzername ist ungültig";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Passwort ist ungültig";
+"IPC_SAVE_IMAGE"="Speichern";
+"IPC_SAVED_IMAGE"="Gespeichert zum Album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Altes Passwort eingeben";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Falsche alte Passwort";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="E-Mail-Adresse des Empfängers";
+"IPC_DELETE_LOC"="Löschen";
+"IPC_OK"="OK";
+"IPC_CANCEL"=" Abbrechen";
+"IPC_ORROR_ID"="Falsche ID-Nr.";
+"IPC_VIDEO_QUALITY_LOW"="Niedrig";
+"IPC_VIDEO_QUALITY_SD"="Mittel";
+"IPC_VIDEO_QUALITY_HD"="Hoch";
+"IPC_EDITOR"="Bearbeiten";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="Sehen Sie 720p HD-Video jederzeit, überall";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live Video Zwei-Wege-Kommunikation";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Die Verbindung des Kamera\nbracht nur eine Stimm-Link";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Superweitwinkel mit 5 MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="Ein Klick zur Freigabe,\nmehr Freude zum Teilen";
+"IPC_FUNC_TIPS_LABEL"="Wifi HD Kamera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"IPC_NEW_DEVICE"="Neue Kamera hinzufügen";
+"IPC_NAME_PWD_ACNT_SAME" = "Benutzername und Passwort dürfen nicht identisch sein.";
+"IPC_PLACE_WAIT"         = "Bitte warten";
+"Scan the QR code"       = "QR-Code scannen";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WLAN-Passwort";
+"IPC_OPERATE_SUCCESS"       = "Bedienung erfolgreich";
+"WiFi Camera"="Realtime view";
+
+"ReEnterphoneNumber"="Telefo nerneut eingeben";
+"Phone numbers did not match. Try again."="Telefon stimmt nicht. Bitte erneut versuchen.";
+"Scan the QR code on the panel's back cover"="Scannen den QR-Code";
+"Input the QR code"="Die QR-Nummer eingeben";
+
+
+"Work days" = "Arbeitstage";
+"Weekends" = "Wochenenden";

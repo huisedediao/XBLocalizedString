@@ -1,0 +1,9 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName="E5 WiFi plug";
+
+NSCameraUsageDescription = "";
+NSContactsUsageDescription = "";
+NSLocationWhenInUseUsageDescription = "";
+NSMicrophoneUsageDescription = "";
+NSPhotoLibraryUsageDescription = "";

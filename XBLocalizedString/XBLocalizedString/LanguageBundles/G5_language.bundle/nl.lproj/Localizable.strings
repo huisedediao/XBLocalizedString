@@ -1,0 +1,269 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 Alarm";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+"G5 ALARM"="G5 Plus Alarm";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Alarm zone 1";
+"Zone 2 alarm" = "Alarm zone 2";
+"Zone 3 alarm" = "Alarm zone 3";
+"Zone 4 alarm" = "Alarm zone 4";
+
+"System Activated"="Systeem Geactiveerd";
+"Normal Zone Activated"="Normaal Zone Geactiveerd";
+"Home Zone Deactivated"="Huis Zone Gedeactiveerd";
+"System Deactivated"="Systeem Gedeactiveerd";
+
+"Mute" = "Uit";
+"Low" = "Laag";
+"Medium" = "Medium";
+"High" = "Hoog";
+
+"Please waiting..." = "Een ogenblik geduld...";
+"Please input the host name" = "Voer naam alarm-systeem in";
+"Please input the host number" = "Voer GSM-nummer in";
+"The host name already exists" = "De naam bestaat al";
+"The host number already exists" = "Het GSM-nummer bestaat al";
+
+"Accounts" = "Account";
+"Edit" = "Bewerken";
+"Done" = "Gereed";
+"Back" = "Terug";
+"Save" = "Opslaan";
+"Cancel" = "Annuleren";
+
+"Add Host Account" = "Account toevoegen";
+"Edit Host Account" = "Account bewerken";
+"Host Name" = "Naam alarmvenster";
+"Host Number" = "GSM-nummer van het alarm-systeem";
+
+"Disarm" = "Uitschakelen";
+"Arm" = "Inschakelen";
+"Call-back Monitor" = "Spreken";
+"Modify Host Language" = "Taal selecteren";
+"Store Phone Numbers" = "Telefoonnummers opslaan";
+"Change Zone Name" = "Naam zone wijzigen";
+"Delay Time" = "Vertragingstijd instellen";
+"System arm delay time" = "Vertragingstijd inschakelen systeem";
+"Siren Volume & Ring Time" = "Sirene volume & beltijd";
+"Phone" = "Telefoon";
+"Seconds" = "Seconden";
+"Mins" = "Minuten";
+
+"Choose a siren volume" = "Kies het volume voor de sirene";
+"Choose a ring time" = "Kies de beltijd";
+"Please input phone number" = "Telefoonnummer invullen";
+
+"Zone information more than %i characters, please correct." = "Zonegegevens langer dan %i tekens, dit corrigeren.";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Als u %@ graag gebruikt, wilt u dit dan een waardering geven? Dat duurt hoogstens een minuutje. Bedankt voor uw ondersteuning!";
+"Rate %@" = "Waardering %@";
+"No, Thanks" = "Nee dank u";
+"Remind me later" = "Herinner mij later";
+
+"No longer prompted" = "Niet meer vragen";
+"Please wait for the alarm host to reply to confirmation SMS" = "Wacht op bevestigings-SMS";
+"I have received the confirmation SMS" = "Bevestigings-SMS ontvangen";
+
+"Volume" = "Volume";
+"Time" = "Tijd";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Spraakmemo";
+"Set Alarm At Family" = "Thuis";
+"Query Settings" = "Opvragen instellingen";
+
+"Store Phone & SMS Numbers" = "Telefoon en SMS-nummers";
+"RFID Card SMS Notification Number" = "SMS-nummer voor RFID-tags";
+"One Key Pass Number" = "Snelkiesnummer opslaan";
+
+"Credit Card User Name" = "Naam RFID-tags wijzigen";
+"Disarm Password" = "Uitschakelcode";
+"Independent Zone Delay Time" = "Vertragingstijd enkele zone";
+"Single zone alarm delay time" = "Vertragingstijd enkel zonealarm";
+
+"Disarm password(4-6 Digits), please correct." = "Uitschakelcode mag maximaal uit 6 cijfers bestaan, aub aanpassen";
+"RFID tags SMS notice more than %i characters, please correct." = "Naam RFID-tag langer dan %i tekens, aub aanpassen.";
+
+"child" = "Kinderen komen thuis van school";
+"Nurse" = "Zuster komt thuis van boodschappen doen";
+"Xiao Ming" = "Paul komt thuis van zijn werk"; 
+"Xiao Dong" = "Anna komt thuis van haar werk";
+
+"Enter the number of characters that can not be over %i." = "Niet meer dan %i tekens invoeren.";
+
+"Remove RFID Card" = "RFID-tags verwijderen";
+
+//************密码设置****************
+"APP CODE"="Wachtwoord";
+"ON"="ON";
+"OFF"="OFF";
+"Password Lock"="Wachtwoord vergrendeling";
+"Enter Passcode"="Voer wachtwoord in";
+"Re-enter your passcode"="Voer wachtwoord opnieuw in";
+"Passcode did not match.Try again."="Wachtwoord komt niet overeen, probeer opnieuw";
+"View camera"="Uitzicht camera";
+
+
+//重复日期
+"Timing"="Alarm tijd planning";
+"Action"="Actie";
+"Repeat"="Herhaal";
+"Mon."="Mon.";
+"Tue."="Tues.";
+"Wed."="Wo.";
+"Thu."="Thurs.";
+"Fri."="Vr.";
+"Sat."="Za.";
+"Sun."="Zon.";
+"Never"="Nooit";
+"Everyday"="Elke dag";
+"Timed Arm/Disarm"="Alarm tijd planning";
+
+
+
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Controleer of de telefoon is verbonden met een draadloos netwerk";
+"IPC_REQ_FAIL"="Aanvraag mislukt";
+"IPC_USENAME_NOT_EXIST"="Gebruikersnaam bestaat niet";
+"IPC_NEXT"="Volgende";
+"IPC_TIPS"="Aantekening";
+"IPC_BE_LOGO_OUT"="Dit account is reeds ingelogd. U bent offline";
+"IPC_LOGO_BE_OVERDUE"="Verbinding verbroken met de server, log opnieuw in a.u.b.";
+"IPC_LOGO_BE_UNABLE_NET"="Netwerk instabiel, u bent offline";
+"IPC_GET_STARTED"="Aan de slag";
+"IPC_CONNECT_DEVICE_FAIL"="Netwerkverbinding mislukt";
+"IPC_LOGOIN_FAIL"="Inloggen mislukt";
+"IPC_LOGOIN_ING"="Bezig met inloggen..";
+"IPC_SAVE_PWD"="Wachtwoord onthouden";
+"IPC_LOGOIN"="Login";
+"IPC_FORGET_BTN_PWD"="Wachtwoord vergeten";
+"IPC_REGISTER"="Registreer";
+"IPC_PWD_OR_USENAME_ERROR"="Verkeerd wachtwoord";
+"IPC_PLEASE_INPUT_USENAME"="Voer gebruikersnaam in";
+"IPC_PLEASE_INPUT_PWD"="Voer wachtwoord in";
+"IPC_GET_DEVICE_FAILED"="Camera overzicht verkrijgen mislukt";
+"IPC_INPUT_EMAIL"="Voer e-mailadres in";
+"IPC_PLEASE_INPUT_REPWD"="Bevestig wachtwoord";
+"IPC_Vertification_LOC"="Ontvang verificatie code";
+"IPC_PLEASE_INPUT_ID_CODE"="Voer verificatie code in";
+"IPC_PWD_NOT_SAME"="Wachtwoord komt niet overeen";
+"IPC_INPUT_VAILD_EMAIL"="Verkeerde e-mail invoer";
+"IPC_PWD_VALID_JUDGE"="Wachtwoord moet uit meer dan 6 karakters bestaan en nummers en cijfers bevatten";
+"IPC_REGISTER_NAME_BE_USED"="Het account is succesvol geregistreerd";
+"IPC_REGISTER_IDCODE_ERROR"="Verkeerde verificatie code";
+"IPC_GET_IDCODE_FAIL"="Verificatiecode sturen mislukt";
+"IPC_IDCODE_SENDED_TO_EMAIL"="Verificatiecode is verzonden naar uw e-mailadres";
+"IPC_Registration_successfully"="Registratie succesvol";
+"IPC_REGISTER_FAIL"="Registratie mislukt";
+"IPC_PLEASE_INPUT__NEW_PWD"="Voer nieuw wachtwoord in";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Bevestig nieuw wachtwoord";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Wachtwoord succesvol aangepast";
+"IPC_FORGET_PWD"="Verander wachtwoord";
+"IPC_MODIFY_FAIL"="Instellen mislukt";
+"IPC_DEVICE_UNLINE"="De camera is offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Netwerk time out. Probeer opnieuw a.u.b.";
+"IPC_CONNECTING_DEVICE"="Verbinden…";
+"IPC_CONNECTED_BUFFER_DATA"="Videoverbinding tot stand brengen..";
+"IPC_Shutting_down"="Videoverbinding beeïndigen..";
+"IPC_VIDEO_QUALITY"="Video kwaliteit";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Laat los";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Veeg omlaag";
+"IPC_LOADING_NOW"="Vernieuwen…";
+"IPC_REAL_TIME"="Live beeld";
+"IPC_REAL_TIME1"="Live beeld";
+"IPC_ADD_DEVICE"="Camera toevoegen";
+"IPC_MY_SHARE"="Gedeelde camera's";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Help";
+"IPC_ABOUT_US"="Over ons";
+"IPC_OUT_BTN"="Uitloggen";
+"IPC_Refresh_BTN"="Vernieuwen";
+"IPC_ADD_CONNECT_DEVICE"="Camera's zoeken in lokaal netwerk";
+"IPC_PLEASE_INPUT_DEVICEID"="Apparaat ID nr.";
+"IPC_SMART_VOIDCE_CONNECT"="Slimme geluids verbinding";
+"IPC_NO_LOCAL_DEVICE"="Geen camera gevonden";
+"IPC_ADD_SUCCESSED"="Camera toevoegen geslaagd";
+"IPC_ADD_FAIL"="Camera toevoegen mislukt";
+"IPC_ADD_BY_OTHER_USER"="Deze camera is bezet";
+"IPC_DEVICE_NOT_EXIST"="Deze camera bestaat niet";
+"IPC_ADD_BE_BY_SELY"="Deze camera staat al in de lijst.";
+"IPC_SEND_VOICE_TIPS"="Houd uw smartphone dichtbij de camera en wacht op de reactietoon";
+"IPC_SEND_VOICE"="Stuur geluid";
+"IPC_HAVE_GET_DEVICE_SOUND"="Heeft u een reactie toon van het apparaat gehoord?";
+"IPC_YES"="Ja";
+"IPC_NO"="Nee";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Camera op achtergrond toevoegen";
+"IPC_DEVICE_NAME"="Verander naam camera";
+"IPC_SHARE"="Delen";
+"IPC_DETELE_DEVICE"="Verwijder camera";
+"IPC_IS_TO_DELDETE_DEVICE"="Weet u zeker dat u de camera wilt verwijderen?";
+"IPC_DEVICE_SHARE"="Deel deze camera";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Delen geslaagd";
+"IPC_TO_DELETE_SHARE_NAME"="Weet u zeker dat u het delen wilt annuleren?";
+"IPC_IDCODE_IS_BE_FAIL"="Verificatie code is verlopen";
+"IPC_LOGO_OUT"="Weet u zeker dat u wilt afsluiten?";
+"IPC_SET"="Systeeminstellingen";
+"IPC_WIFI_SET"="Wifi instellingen";
+"IPC_NAME_FLAG"="Van";
+"IPC_MY_FOLDER"="Mijn map";
+"IPC_LOCAL_VIDEO"="Opgeslagen video's";
+"IPC_LOCAL_IMAGE"="Opgeslagen afbeeldingen";
+"IPC_DELETE_FAIL"="Mislukt";
+"IPC_NAME_CAN_NULL"="Gebruikersnaamveld is leeg";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Wachtwoordveld is leeg";
+"IPC_SAVE_IMAGE"="Opslaan";
+"IPC_SAVED_IMAGE"="Opgeslagen in album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Voer oude wachtwoord in";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Foutief oud wachtwoord";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="E-mail ontvanger";
+"IPC_DELETE_LOC"="Verwijderen";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Annuleren";
+"IPC_ORROR_ID"="Onjuiste ID invoer";
+"IPC_VIDEO_QUALITY_LOW"="Laag";
+"IPC_VIDEO_QUALITY_SD"="Midden";
+"IPC_VIDEO_QUALITY_HD"="Hoog";
+"IPC_EDITOR"="Bewerken";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="Bekijk 720p HD Video altijd en overal";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"=" Live Video Twee-weg communicatie";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Camera toevoegen via\nslimme geluidsverbinding";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Superwijde kijkhoek bij 5MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="Deel onvergetelijke momenten\nmet één druk op de knop";
+"IPC_FUNC_TIPS_LABEL"="HD WiFi camera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"IPC_NEW_DEVICE"="Nieuwe camera toevoegen";
+"IPC_NAME_PWD_ACNT_SAME" = "Gebruikersnaam en wachtwoord kunnen niet hetzelfde zijn";
+"IPC_PLACE_WAIT"         = "Even geduld a.u.b.";
+"Scan the QR code"       = "Scan QR code";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WiFi wachtwoord";
+"IPC_OPERATE_SUCCESS"       = "Instellingen succesvol";
+"WiFi Camera"="Realtime view";
+
+
+"ReEnterphoneNumber"="Voer telefoono pnieuw in";
+"Phone numbers did not match. Try again."="Telefoon komt niet overeen, probeer opnieuw";
+"Scan the QR code on the panel's back cover"="Scan de QR-code";
+"Input the QR code"="Voer het nummer van de QR-code in";
+
+
+"Work days" = "Werkdagen";
+"Weekends" = "Weekenden";

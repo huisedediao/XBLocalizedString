@@ -1,0 +1,271 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 Alarm";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+
+"G5 ALARM"="G5 Plus Alarm";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Zóna 1 alarm";
+"Zone 2 alarm" = "Zóna 2 alarm";
+"Zone 3 alarm" = "Zóna 3 alarm";
+"Zone 4 alarm" = "Zóna 4 alarm";
+
+"System Activated"="Systém aktivovaný";
+"Normal Zone Activated"="Normal zóna aktívna";
+"Home Zone Deactivated"="Domáca zóna deaktivovaný";
+"System Deactivated"="Systém deaktivovaný";
+
+"Mute" = "Tichá";
+"Low" = "Nízka";
+"Medium" = "Medium";//mei_you_fan_yi
+"High" = "Hlasitá";
+
+"Please waiting..." = "Čakajte prosím...";
+"Please input the host name" = "Zadajte názov systému";
+"Please input the host number" = "Zadajte  telefónne číslo SIM karty alarmu";
+"The host name already exists" = "Názov systému už existuje";
+"The host number already exists" = "Telefónne číslo SIM karty už existuje";
+
+"Accounts" = "Konto";
+"Edit" = "Upraviť";
+"Done" = "Potvrdiť";
+"Back" = "Späť";
+"Save" = "Uložiť";
+"Cancel" = "Ukončiť";
+
+"Add Host Account" = "Pridaj konto";
+"Edit Host Account" = "Uprav konto";
+"Host Name" = "Názov alarm systému";
+"Host Number" = "Telefónne číslo SIM karty alarmu";
+
+"Disarm" = "Odblokovať";
+"Arm" = "Aktivovať";
+"Call-back Monitor" = "Obojsmerná komunikácia";
+"Modify Host Language" = "Výber jazyka";
+"Store Phone Numbers" = "Nastavenie telefónneho čísla";
+"Change Zone Name" = "Zmena názvu zóny";
+"Delay Time" = "Oneskorenia odchodu/príchodu";
+"System arm delay time" = "Oneskorenie zapnutia";
+"Siren Volume & Ring Time" = "Hlasitosť sirény a trvanie poplachu";
+"Phone" = "Telefón";
+"Seconds" = "Sekundy";
+"Mins" = "Minúty";
+
+"Choose a siren volume" = "Zvoľte hlasitosť sirény";
+"Choose a ring time" = "Dĺžka aktivácie sirény";
+"Please input phone number" = "Zadajte prosím číslo telefónu";
+
+"Zone information more than %i characters, please correct." = "Nezadávajte viac, ako %i znakov";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";//没有提供翻译
+"Rate %@" = "Ohodnotiť aplikáciu %@?";
+"No, Thanks" = "Nie, ďakujem";
+"Remind me later" = "Pripomenúť neskôr";
+
+"No longer prompted" = "Nepripomínať";
+"Please wait for the alarm host to reply to confirmation SMS" = "Prosím počkajte na potvrdzujúcu SMS";
+"I have received the confirmation SMS" = "Potvrdenie prijatej SMS";
+
+"Volume" = "Hlasitosť";
+"Time" = "Čas";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Hlasová správa";
+"Set Alarm At Family" = "Zostaň";
+"Query Settings" = "Nastavenia";
+
+"Store Phone & SMS Numbers" = "Telefónne a SMS čísla";
+"RFID Card SMS Notification Number" = "SMS číslo pre RFID kľúčenku";
+"One Key Pass Number" = "Nastavenie telefónneho čísla pre zrýchlenú voľbu";
+
+"Credit Card User Name" = "Zmena názvu RFID kľúčenky";
+"Disarm Password" = "Kód pre odblokovanie";
+"Independent Zone Delay Time" = "Oneskorenie odchodu/príchodu pre zónu";
+"Single zone alarm delay time" = "Zpoždění jediné zóně";
+
+"Disarm password(4-6 Digits), please correct." = "Kód pre odblokovanie presiahol 4-6 znakov,upraviť";
+"RFID tags SMS notice more than %i characters, please correct." = "Názov RFID kľúčenky presiahol %i znakov,upraviť";
+
+"child" = "Deti prišli domov";
+"Nurse" = "Sestra prišla domov";
+"Xiao Ming" = "Pavol prišiel domov";
+"Xiao Dong" = "Anna prišla domov";
+
+"Enter the number of characters that can not be over %i." = "Nezadávajte viac, ako %i znakov";
+
+"Remove RFID Card" = "Vymazanie RFID kľúčenky";
+
+//************密码设置****************
+"APP CODE" = "APP Kód";
+"ON"="Zapnutý";
+"OFF"="Vypnutý";
+"Password Lock"="Ochrana heslom";
+"Enter Passcode" = "Vložte heslo";
+"Re-enter your passcode"="Potvrdenie hesla";
+"Passcode did not match.Try again."="Prístupový kód nesprávny. Opakujte voľbu.";
+"View camera"="Pohľad kamera";
+
+
+//重复日期
+"Timing"="Časování";
+"Action"="Načasovanie";
+"Repeat"="Opakova";
+"Mon."="Po.";
+"Tue."="Ut.";
+"Wed."="St.";
+"Thu."="Št.";
+"Fri."="Pi.";
+"Sat."="So.";
+"Sun."="Ne.";
+"Never"="Nikdy";
+"Everyday"="Každý deň";
+"Timed Arm/Disarm"="Časování";
+
+
+
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Make sure your phone is connected with Wi-Fi";
+"IPC_REQ_FAIL"="Request failed";
+"IPC_USENAME_NOT_EXIST"="Username does not exist";
+"IPC_NEXT"="Next";
+"IPC_TIPS"="Note";
+"IPC_BE_LOGO_OUT"="This account has been logged in. You are offline ";
+"IPC_LOGO_BE_OVERDUE"="Lost connection with server, please login again";
+"IPC_LOGO_BE_UNABLE_NET"="You are offline because of unstable network";
+"IPC_GET_STARTED"="Get Started";
+"IPC_CONNECT_DEVICE_FAIL"="Network connection failed";
+"IPC_LOGOIN_FAIL"="Login failed";
+"IPC_LOGOIN_ING"="Logging in...";
+"IPC_SAVE_PWD"="Remember password";
+"IPC_LOGOIN"="Login";
+"IPC_FORGET_BTN_PWD"="Forgot password";
+"IPC_REGISTER"="Register";
+"IPC_PWD_OR_USENAME_ERROR"="Incorrect password";
+"IPC_PLEASE_INPUT_USENAME"="Enter username";
+"IPC_PLEASE_INPUT_PWD"="Enter password";
+"IPC_GET_DEVICE_FAILED"="Failed to get camera list";
+"IPC_INPUT_EMAIL"="Enter your email address";
+"IPC_PLEASE_INPUT_REPWD"="Confirm password";
+"IPC_Vertification_LOC"="Get verification code";
+"IPC_PLEASE_INPUT_ID_CODE"="Enter verification code";
+"IPC_PWD_NOT_SAME"="Password does not match";
+"IPC_INPUT_VAILD_EMAIL"="Incorrect email format";
+"IPC_PWD_VALID_JUDGE"="Password must be more than 6 digits and consisted by numbers and letters only";
+"IPC_REGISTER_NAME_BE_USED"="The account has been registered";
+"IPC_REGISTER_IDCODE_ERROR"="Incorrect verification code";
+"IPC_GET_IDCODE_FAIL"="Failed to send verification code";
+"IPC_IDCODE_SENDED_TO_EMAIL"="The verification code has been sent to your email";
+"IPC_Registration_successfully"="Registration successfully";
+"IPC_REGISTER_FAIL"="Registration failed";
+"IPC_PLEASE_INPUT__NEW_PWD"="Enter new password";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Confirm new password";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Password changed successfully";
+"IPC_FORGET_PWD"="Change password";
+"IPC_MODIFY_FAIL"="Setup failed";
+"IPC_DEVICE_UNLINE"="Camera offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Network timed out, please try again";
+"IPC_CONNECTING_DEVICE"="Connecting...";
+"IPC_CONNECTED_BUFFER_DATA"="Starting videostream..";
+"IPC_Shutting_down"="Ending videostream..";
+"IPC_VIDEO_QUALITY"="Video quality";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Release";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Pull down";
+"IPC_LOADING_NOW"="Refreshing...";
+"IPC_REAL_TIME"="Realtime view";
+"IPC_REAL_TIME1"="Realtime view";
+"IPC_ADD_DEVICE"="Add camera";
+"IPC_MY_SHARE"="My shares";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Help";
+"IPC_ABOUT_US"="About us";
+"IPC_OUT_BTN"="Log out";
+"IPC_Refresh_BTN"="Refresh";
+"IPC_ADD_CONNECT_DEVICE"="Search local camera";
+"IPC_PLEASE_INPUT_DEVICEID"="Device ID No.";
+"IPC_SMART_VOIDCE_CONNECT"="Smart sound link";
+"IPC_NO_LOCAL_DEVICE"="No camera found";
+"IPC_ADD_SUCCESSED"="Camera added";
+"IPC_ADD_FAIL"="Failed to add camera ";
+"IPC_ADD_BY_OTHER_USER"="This camera is occupied";
+"IPC_DEVICE_NOT_EXIST"="This camera does not exist";
+"IPC_ADD_BE_BY_SELY"="The camera already listed";
+"IPC_SEND_VOICE_TIPS"="Hold phone close to the camera and await respond tone";
+"IPC_SEND_VOICE"="Send sound";
+"IPC_HAVE_GET_DEVICE_SOUND"="Did you hear a respond tone from device?";
+"IPC_YES"="Yes";
+"IPC_NO"="No";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Adding camera in background";
+"IPC_DEVICE_NAME"="Change camera name";
+"IPC_SHARE"="Sharing";
+"IPC_DETELE_DEVICE"="Delete camera";
+"IPC_IS_TO_DELDETE_DEVICE"="Confirm to delete the camera?";
+"IPC_DEVICE_SHARE"="Share the camera";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Sharing succeeded";
+"IPC_TO_DELETE_SHARE_NAME"="Confirm to cancel sharing?";
+"IPC_IDCODE_IS_BE_FAIL"="Verification code expired";
+"IPC_LOGO_OUT"="Are you sure to exit?";
+"IPC_SET"="System settings";
+"IPC_WIFI_SET"="WiFi setup";
+"IPC_NAME_FLAG"="From";
+"IPC_MY_FOLDER"="My folder";
+"IPC_LOCAL_VIDEO"="Saved videos";
+"IPC_LOCAL_IMAGE"="Saved pictures";
+"IPC_DELETE_FAIL"="Operation failed";
+"IPC_NAME_CAN_NULL"="Username is null";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Password is null";
+"IPC_SAVE_IMAGE"="Save";
+"IPC_SAVED_IMAGE"="Saved to album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Enter old password";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Wrong old password";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="Recepient's email";
+"IPC_DELETE_LOC"="Delete";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Cancel";
+"IPC_ORROR_ID"="Incorrect ID format";
+"IPC_VIDEO_QUALITY_LOW"="Low";
+"IPC_VIDEO_QUALITY_SD"="Medium";
+"IPC_VIDEO_QUALITY_HD"="High";
+"IPC_EDITOR"="Edit";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="View 720P HD Video\nAnytime, Anywhere";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live Video\nTwo-way Communication";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Add Camera by Smart Sound Link";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Super Wide Angle at 5 MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="One Click to Share\nMore Joy to Share";
+"IPC_FUNC_TIPS_LABEL"="HD WiFi Camera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"WiFi Camera"="Realtime view";
+"IPC_NEW_DEVICE"="Add new camera";
+"IPC_NAME_PWD_ACNT_SAME" = "Username and password can't be the same.";
+"IPC_PLACE_WAIT"         = "Please wait";
+"Scan the QR code"       = "Scan QR code";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WiFi password";
+"IPC_OPERATE_SUCCESS"       = "Operate successfully";
+
+
+
+"ReEnterphoneNumber"="Potvrdenie telefón";
+"Phone numbers did not match. Try again."="Telefón nesprávny. Opakujte voľbu.";
+"Scan the QR code on the panel's back cover"="Naskenujte QR Kód";
+"Input the QR code"="Zadajte QR kód";
+
+
+"Work days" = "Work days";
+"Weekends" = "Weekends";

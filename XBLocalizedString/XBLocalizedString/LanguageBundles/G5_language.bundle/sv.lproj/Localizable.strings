@@ -1,0 +1,273 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 larm";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+
+"G5 ALARM"="G5 Plus Alarm";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Zon 1 larm";
+"Zone 2 alarm" = "Zon 2 larm";
+"Zone 3 alarm" = "Zon 3 larm";
+"Zone 4 alarm" = "Zon 4 larm";
+
+"System Activated"="Systemet aktiverat";
+"Normal Zone Activated"="Normal zon aktiverad";
+"Home Zone Deactivated"="Hemma-zonen avaktiverat";
+"System Deactivated"="Systemet avaktiverat";
+
+"Mute" = "Tyst";
+"Low" = "Låg";
+"Medium" = "Medium";
+"High" = "Hög";
+
+"Please waiting..." = "Vänta…";
+
+"Please input the host name" = "Ange larmpanelens namn";
+"Please input the host number" = "Ange larmpanelens GSM-nummer";
+
+"The host name already exists" = "Panelens namn finns redan";
+"The host number already exists" = "SIM-kortsnumret finns redan";
+
+"Accounts" = "Konto";
+"Edit" = "Redigera";
+"Done" = "Klar";
+"Back" = "Bakåt";
+"Save" = "Spara";
+"Cancel" = "Avbryt";
+
+"Add Host Account" = "Lägg till konto";
+"Edit Host Account" = "Redigera konto";
+
+"Host Name" = "Namn på larmpanel";
+"Host Number" = "SIM-kortsnummer för larmpanel";
+
+"Disarm" = "Larma av";
+"Arm" = "Larma på";
+"Call-back Monitor" = "Tvåvägs-samtal";
+"Modify Host Language" = "Välj systemspråk";
+"Store Phone Numbers" = "Spara telefonnumer";
+"Change Zone Name" = "Ändra zonnamn";
+"Delay Time" = "Ange fördröjningstid";
+"System arm delay time" = "Fördröjningstid systemaktivering";
+"Siren Volume & Ring Time" = "Volym och tid för siren";
+"Phone" = "Telefonnumer och SMS-nummer";
+"Seconds" = "Sekunder";
+"Mins" = "Minuter";
+
+"Choose a siren volume" = "Välj volym för siren";
+"Choose a ring time" = "Välj tid för siren";
+"Please input phone number" = "Ange telefonnumer";
+
+"Zone information more than %i characters, please correct." = "Zone information more than %i characters, please correct.";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+"Rate %@" = "Ge betyg till oss?";
+"No, Thanks" = "Nej, tack";
+"Remind me later" = "Påminn senare";
+
+"No longer prompted" = "Ingen mer påminnelse";
+"Please wait for the alarm host to reply to confirmation SMS" = "Vänta på SMS-kommunikation";
+"I have received the confirmation SMS" = "Bekräftnings-SMS mottaget";
+
+"Volume" = "Volym";
+"Time" = "Tid";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Röstmeddelande";
+"Set Alarm At Family" = "Hemmaläge";
+"Query Settings" = "Hämta inställningar";
+
+"Store Phone & SMS Numbers" = "Telefonnumer och SMS-nummer";
+"RFID Card SMS Notification Number" = "SMS-nummer för RFID-brickor";
+"One Key Pass Number" = "Spara snabbvalsnummer";
+
+"Credit Card User Name" = "Ändra namn på RFID-bricka";
+"Disarm Password" = "Kod för avlarmning";
+"Independent Zone Delay Time" = "Fördröjing av enskild zon";
+"Single zone alarm delay time" = " Fördröjningstid larm enskild zon";
+
+"Disarm password(4-6 Digits), please correct." = "Avlarmingskoden är mer än 4-6 siffror, byt kod.";
+"RFID tags SMS notice more than %i characters, please correct." = "RFID-brickans namn är längre än %i tecken, byt namn.";
+
+"child" = "Barnen kom hem";
+"Nurse" = "Barnvakt kom hem";
+"Xiao Ming" = "Paul kom hem";
+"Xiao Dong" = "Anna kom hem";
+
+"Enter the number of characters that can not be over %i." = "Ange inte mer än %i tecken.";
+
+"Remove RFID Card" = "Ta bort RFID-bricka";
+
+//************密码设置****************
+"APP CODE"="Lösenord";
+"ON"="PÅ";
+"OFF"="AV";
+"Password Lock"="Lösenord låsning";
+"Enter Passcode"="Var god och ange lösenord";
+"Re-enter your passcode"="Upprepa lösenordet";
+"Passcode did not match.Try again."="Lösenordet stämmer inte. Prova igen.";
+"View camera"="Se kamera";
+
+
+//重复日期
+"Timing"="Timing";
+"Action"="Aktiv";
+"Repeat"="Upprepa";
+"Mon."="Mån.";
+"Tue."="Tis.";
+"Wed."="Ons.";
+"Thu."="Tor.";
+"Fri."="Fre.";
+"Sat."="Lör.";
+"Sun."="Sön.";
+"Never"="Aldrig";
+"Everyday"="Varje dag";
+"Timed Arm/Disarm"="Timing";
+
+
+
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Make sure your phone is connected with Wi-Fi";
+"IPC_REQ_FAIL"="Request failed";
+"IPC_USENAME_NOT_EXIST"="Username does not exist";
+"IPC_NEXT"="Next";
+"IPC_TIPS"="Note";
+"IPC_BE_LOGO_OUT"="This account has been logged in. You are offline ";
+"IPC_LOGO_BE_OVERDUE"="Lost connection with server, please login again";
+"IPC_LOGO_BE_UNABLE_NET"="You are offline because of unstable network";
+"IPC_GET_STARTED"="Get Started";
+"IPC_CONNECT_DEVICE_FAIL"="Network connection failed";
+"IPC_LOGOIN_FAIL"="Login failed";
+"IPC_LOGOIN_ING"="Logging in...";
+"IPC_SAVE_PWD"="Remember password";
+"IPC_LOGOIN"="Login";
+"IPC_FORGET_BTN_PWD"="Forgot password";
+"IPC_REGISTER"="Register";
+"IPC_PWD_OR_USENAME_ERROR"="Incorrect password";
+"IPC_PLEASE_INPUT_USENAME"="Enter username";
+"IPC_PLEASE_INPUT_PWD"="Enter password";
+"IPC_GET_DEVICE_FAILED"="Failed to get camera list";
+"IPC_INPUT_EMAIL"="Enter your email address";
+"IPC_PLEASE_INPUT_REPWD"="Confirm password";
+"IPC_Vertification_LOC"="Get verification code";
+"IPC_PLEASE_INPUT_ID_CODE"="Enter verification code";
+"IPC_PWD_NOT_SAME"="Password does not match";
+"IPC_INPUT_VAILD_EMAIL"="Incorrect email format";
+"IPC_PWD_VALID_JUDGE"="Password must be more than 6 digits and consisted by numbers and letters only";
+"IPC_REGISTER_NAME_BE_USED"="The account has been registered";
+"IPC_REGISTER_IDCODE_ERROR"="Incorrect verification code";
+"IPC_GET_IDCODE_FAIL"="Failed to send verification code";
+"IPC_IDCODE_SENDED_TO_EMAIL"="The verification code has been sent to your email";
+"IPC_Registration_successfully"="Registration successfully";
+"IPC_REGISTER_FAIL"="Registration failed";
+"IPC_PLEASE_INPUT__NEW_PWD"="Enter new password";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Confirm new password";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Password changed successfully";
+"IPC_FORGET_PWD"="Change password";
+"IPC_MODIFY_FAIL"="Setup failed";
+"IPC_DEVICE_UNLINE"="Camera offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Network timed out, please try again";
+"IPC_CONNECTING_DEVICE"="Connecting...";
+"IPC_CONNECTED_BUFFER_DATA"="Starting videostream..";
+"IPC_Shutting_down"="Ending videostream..";
+"IPC_VIDEO_QUALITY"="Video quality";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Release";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Pull down";
+"IPC_LOADING_NOW"="Refreshing...";
+"IPC_REAL_TIME"="Realtime view";
+"IPC_REAL_TIME1"="Realtime view";
+"IPC_ADD_DEVICE"="Add camera";
+"IPC_MY_SHARE"="My shares";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Help";
+"IPC_ABOUT_US"="About us";
+"IPC_OUT_BTN"="Log out";
+"IPC_Refresh_BTN"="Refresh";
+"IPC_ADD_CONNECT_DEVICE"="Search local camera";
+"IPC_PLEASE_INPUT_DEVICEID"="Device ID No.";
+"IPC_SMART_VOIDCE_CONNECT"="Smart sound link";
+"IPC_NO_LOCAL_DEVICE"="No camera found";
+"IPC_ADD_SUCCESSED"="Camera added";
+"IPC_ADD_FAIL"="Failed to add camera ";
+"IPC_ADD_BY_OTHER_USER"="This camera is occupied";
+"IPC_DEVICE_NOT_EXIST"="This camera does not exist";
+"IPC_ADD_BE_BY_SELY"="The camera already listed";
+"IPC_SEND_VOICE_TIPS"="Hold phone close to the camera and await respond tone";
+"IPC_SEND_VOICE"="Send sound";
+"IPC_HAVE_GET_DEVICE_SOUND"="Did you hear a respond tone from device?";
+"IPC_YES"="Yes";
+"IPC_NO"="No";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Adding camera in background";
+"IPC_DEVICE_NAME"="Change camera name";
+"IPC_SHARE"="Sharing";
+"IPC_DETELE_DEVICE"="Delete camera";
+"IPC_IS_TO_DELDETE_DEVICE"="Confirm to delete the camera?";
+"IPC_DEVICE_SHARE"="Share the camera";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Sharing succeeded";
+"IPC_TO_DELETE_SHARE_NAME"="Confirm to cancel sharing?";
+"IPC_IDCODE_IS_BE_FAIL"="Verification code expired";
+"IPC_LOGO_OUT"="Are you sure to exit?";
+"IPC_SET"="System settings";
+"IPC_WIFI_SET"="WiFi setup";
+"IPC_NAME_FLAG"="From";
+"IPC_MY_FOLDER"="My folder";
+"IPC_LOCAL_VIDEO"="Saved videos";
+"IPC_LOCAL_IMAGE"="Saved pictures";
+"IPC_DELETE_FAIL"="Operation failed";
+"IPC_NAME_CAN_NULL"="Username is null";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Password is null";
+"IPC_SAVE_IMAGE"="Save";
+"IPC_SAVED_IMAGE"="Saved to album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Enter old password";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Wrong old password";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="Recepient's email";
+"IPC_DELETE_LOC"="Delete";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Cancel";
+"IPC_ORROR_ID"="Incorrect ID format";
+"IPC_VIDEO_QUALITY_LOW"="Low";
+"IPC_VIDEO_QUALITY_SD"="Medium";
+"IPC_VIDEO_QUALITY_HD"="High";
+"IPC_EDITOR"="Edit";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="View 720P HD Video\nAnytime, Anywhere";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live Video\nTwo-way Communication";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Add Camera by Smart Sound Link";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Super Wide Angle at 5 MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="One Click to Share\nMore Joy to Share";
+"IPC_FUNC_TIPS_LABEL"="HD WiFi Camera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"WiFi Camera"="Realtime view";
+"IPC_NEW_DEVICE"="Add new camera";
+"IPC_NAME_PWD_ACNT_SAME" = "Username and password can't be the same.";
+"IPC_PLACE_WAIT"         = "Please wait";
+"Scan the QR code"       = "Scan QR code";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WiFi password";
+"IPC_OPERATE_SUCCESS"       = "Operate successfully";
+
+
+"ReEnterphoneNumber"="Upprepa telefonnumer";
+"Phone numbers did not match. Try again."="Phone numbers did not match. Try again.";
+"Scan the QR code on the panel's back cover"="Skanna QR-koden";
+"Input the QR code"="Mata in QR-koden";
+
+
+"Work days" = "Arbetsdagar";
+"Weekends" = "Veckoslut";

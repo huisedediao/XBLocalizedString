@@ -1,0 +1,269 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 riasztó";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+
+"G5 ALARM"="G5 Plus riasztó";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Riasztási Zóna 1";
+"Zone 2 alarm" = "Riasztási Zóna 2";
+"Zone 3 alarm" = "Riasztási Zóna 3";
+"Zone 4 alarm" = "Riasztási Zóna 4";
+
+"System Activated"="Rendszer Bekapcsolva";
+"Normal Zone Activated"="Normál zóna aktiválva";
+"Home Zone Deactivated"="Otthoni zóna Kikapcsolva";
+"System Deactivated"="Rendszer Kikapcsolva";
+
+"Mute" = "Némít";
+"Low" = "Alacsony";
+"Medium" = "Medium";//没有翻译
+"High" = "Magas";
+
+"Please waiting..." = "Kérem várjon...";
+"Please input the host name" = "Kérem írja be a riasztási panel nevét";
+"Please input the host number" = "Kérem írja be a riasztási panel SIM kártya számát";
+"The host name already exists" = "A riasztási panel név már létezik";
+"The host number already exists" = "A SIM kártya szám már létezik";
+
+"Accounts" = "Fiók";
+"Edit" = "Javítás";
+"Done" = "Kész";
+"Back" = "Vissza";
+"Save" = "Mentés";
+"Cancel" = "Törlés";
+
+"Add Host Account" = "Fiók Hozzáadása";
+"Edit Host Account" = "Fiók Javítása";
+"Host Name" = "Riasztási Panel Neve";
+"Host Number" = "Riasztási Panel Sim Kártya Száma";
+
+"Disarm" = "Hatástalanítás";
+"Arm" = "Élesít";
+"Call-back Monitor" = "Kétirányú beszélgetés";
+"Modify Host Language" = "Rendszer Nyelv Választása";
+"Store Phone Numbers" = "Telefonszámok Tárolása";
+"Change Zone Name" = "Riasztási Zóna Választása";
+"Delay Time" = "Késleltetési Idő Beállítása";
+"System arm delay time" = "Aktivált rendszer késleltetési idő";
+"Siren Volume & Ring Time" = "Sziréna Hang és Idő Megadása";
+"Phone" = "Telefon";
+"Seconds" = "Másodperc";
+"Mins" = "Percek";
+
+"Choose a siren volume" = "Válasszon egy sziréna hangot";
+"Choose a ring time" = "Válassza ki a csengetési időt";
+"Please input phone number" = "Kérjem adja meg a telefonszámot";
+
+"Zone information more than %i characters, please correct." = "Ne adjon meg több, mint %i karaktert.";//没有翻译
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";//没有翻译
+"Rate %@" = "Értékel minket %@?";
+"No, Thanks" = "Nem. Köszönöm!";
+"Remind me later" = "Emlékeztessen Később";
+
+"No longer prompted" = "Nincs több azonnali értesítés";
+"Please wait for the alarm host to reply to confirmation SMS" = "Kérem várjon a jóváhagyó SMS-re";
+"I have received the confirmation SMS" = "Jóváhagyó SMS megérkezett";
+
+"Volume" = "Hangerő";
+"Time" = "Idő";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Hang Üzenet";
+"Set Alarm At Family" = "Tartózkodás";
+"Query Settings" = "Beállítások Megtekintése";
+
+"Store Phone & SMS Numbers" = "Telefonszámok és SMS számok";
+"RFID Card SMS Notification Number" = "SMS Számok RFID Zsetonhoz";
+"One Key Pass Number" = "Gyorstárcsázás Tárolása";
+
+"Credit Card User Name" = "RFID Zsetonok Megadása";
+"Disarm Password" = "Hatástalanítás Jelszava";
+"Independent Zone Delay Time" = "Egyedi Zóna Késleltetési Idő";
+"Single zone alarm delay time" = "Terület egyszeri ébresztés késleltetési";
+
+"Disarm password(4-6 Digits), please correct." = "Hatástalanítás jelszava meghaladja a 4-6 számjegyet kérem javítsa.";
+"RFID tags SMS notice more than %i characters, please correct." = "RFID zseton név meghaladja a %i karaktert, kérem javítsa.";
+
+"child" = "Gyerekek haza jönnek az iskolából";
+"Nurse" = "Házvezető haza jön a vásárlásból";
+"Xiao Ming" = "Pál haza jön a munkából";
+"Xiao Dong" = "Anna haza jön a munkából";
+
+"Enter the number of characters that can not be over %i." = "Ne adjon meg több, mint %i karaktert.";
+
+"Remove RFID Card" = "RFID Zseton Törlése";
+
+//************密码设置****************
+"APP CODE" = "Jelszó";
+"ON"="BE";
+"OFF"="KI";
+"Password Lock"="Jelszó Zárolva";
+"Enter Passcode" = "Kérem adja meg a jelszavát";
+"Re-enter your passcode"="Kérem adja meg újra a jelszavát";
+"Passcode did not match.Try again."="Jelszó nem egyezik. Kérem próbálja újra!";
+"View camera"="Kilátás kamera";
+
+
+//重复日期
+"Timing"="Időzítés";
+"Action"="Aktív";
+"Repeat"="Ismétlés";
+"Mon."="Hétfő";
+"Tue."="Kedd";
+"Wed."="Szerda";
+"Thu."="Csütörtök";
+"Fri."="Péntek";
+"Sat."="Szombat";
+"Sun."="Vasárnap";
+"Never"="Soha";
+"Everyday"="Mindennap";
+"Timed Arm/Disarm"="Időzítés";
+
+
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Make sure your phone is connected with Wi-Fi";
+"IPC_REQ_FAIL"="Request failed";
+"IPC_USENAME_NOT_EXIST"="Username does not exist";
+"IPC_NEXT"="Next";
+"IPC_TIPS"="Note";
+"IPC_BE_LOGO_OUT"="This account has been logged in. You are offline ";
+"IPC_LOGO_BE_OVERDUE"="Lost connection with server, please login again";
+"IPC_LOGO_BE_UNABLE_NET"="You are offline because of unstable network";
+"IPC_GET_STARTED"="Get Started";
+"IPC_CONNECT_DEVICE_FAIL"="Network connection failed";
+"IPC_LOGOIN_FAIL"="Login failed";
+"IPC_LOGOIN_ING"="Logging in...";
+"IPC_SAVE_PWD"="Remember password";
+"IPC_LOGOIN"="Login";
+"IPC_FORGET_BTN_PWD"="Forgot password";
+"IPC_REGISTER"="Register";
+"IPC_PWD_OR_USENAME_ERROR"="Incorrect password";
+"IPC_PLEASE_INPUT_USENAME"="Enter username";
+"IPC_PLEASE_INPUT_PWD"="Enter password";
+"IPC_GET_DEVICE_FAILED"="Failed to get camera list";
+"IPC_INPUT_EMAIL"="Enter your email address";
+"IPC_PLEASE_INPUT_REPWD"="Confirm password";
+"IPC_Vertification_LOC"="Get verification code";
+"IPC_PLEASE_INPUT_ID_CODE"="Enter verification code";
+"IPC_PWD_NOT_SAME"="Password does not match";
+"IPC_INPUT_VAILD_EMAIL"="Incorrect email format";
+"IPC_PWD_VALID_JUDGE"="Password must be more than 6 digits and consisted by numbers and letters only";
+"IPC_REGISTER_NAME_BE_USED"="The account has been registered";
+"IPC_REGISTER_IDCODE_ERROR"="Incorrect verification code";
+"IPC_GET_IDCODE_FAIL"="Failed to send verification code";
+"IPC_IDCODE_SENDED_TO_EMAIL"="The verification code has been sent to your email";
+"IPC_Registration_successfully"="Registration successfully";
+"IPC_REGISTER_FAIL"="Registration failed";
+"IPC_PLEASE_INPUT__NEW_PWD"="Enter new password";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Confirm new password";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Password changed successfully";
+"IPC_FORGET_PWD"="Change password";
+"IPC_MODIFY_FAIL"="Setup failed";
+"IPC_DEVICE_UNLINE"="Camera offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Network timed out, please try again";
+"IPC_CONNECTING_DEVICE"="Connecting...";
+"IPC_CONNECTED_BUFFER_DATA"="Starting videostream..";
+"IPC_Shutting_down"="Ending videostream..";
+"IPC_VIDEO_QUALITY"="Video quality";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Release";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Pull down";
+"IPC_LOADING_NOW"="Refreshing...";
+"IPC_REAL_TIME"="Realtime view";
+"IPC_REAL_TIME1"="Realtime view";
+"IPC_ADD_DEVICE"="Add camera";
+"IPC_MY_SHARE"="My shares";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Help";
+"IPC_ABOUT_US"="About us";
+"IPC_OUT_BTN"="Log out";
+"IPC_Refresh_BTN"="Refresh";
+"IPC_ADD_CONNECT_DEVICE"="Search local camera";
+"IPC_PLEASE_INPUT_DEVICEID"="Device ID No.";
+"IPC_SMART_VOIDCE_CONNECT"="Smart sound link";
+"IPC_NO_LOCAL_DEVICE"="No camera found";
+"IPC_ADD_SUCCESSED"="Camera added";
+"IPC_ADD_FAIL"="Failed to add camera ";
+"IPC_ADD_BY_OTHER_USER"="This camera is occupied";
+"IPC_DEVICE_NOT_EXIST"="This camera does not exist";
+"IPC_ADD_BE_BY_SELY"="The camera already listed";
+"IPC_SEND_VOICE_TIPS"="Hold phone close to the camera and await respond tone";
+"IPC_SEND_VOICE"="Send sound";
+"IPC_HAVE_GET_DEVICE_SOUND"="Did you hear a respond tone from device?";
+"IPC_YES"="Yes";
+"IPC_NO"="No";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Adding camera in background";
+"IPC_DEVICE_NAME"="Change camera name";
+"IPC_SHARE"="Sharing";
+"IPC_DETELE_DEVICE"="Delete camera";
+"IPC_IS_TO_DELDETE_DEVICE"="Confirm to delete the camera?";
+"IPC_DEVICE_SHARE"="Share the camera";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Sharing succeeded";
+"IPC_TO_DELETE_SHARE_NAME"="Confirm to cancel sharing?";
+"IPC_IDCODE_IS_BE_FAIL"="Verification code expired";
+"IPC_LOGO_OUT"="Are you sure to exit?";
+"IPC_SET"="System settings";
+"IPC_WIFI_SET"="WiFi setup";
+"IPC_NAME_FLAG"="From";
+"IPC_MY_FOLDER"="My folder";
+"IPC_LOCAL_VIDEO"="Saved videos";
+"IPC_LOCAL_IMAGE"="Saved pictures";
+"IPC_DELETE_FAIL"="Operation failed";
+"IPC_NAME_CAN_NULL"="Username is null";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Password is null";
+"IPC_SAVE_IMAGE"="Save";
+"IPC_SAVED_IMAGE"="Saved to album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Enter old password";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Wrong old password";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="Recepient's email";
+"IPC_DELETE_LOC"="Delete";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Cancel";
+"IPC_ORROR_ID"="Incorrect ID format";
+"IPC_VIDEO_QUALITY_LOW"="Low";
+"IPC_VIDEO_QUALITY_SD"="Medium";
+"IPC_VIDEO_QUALITY_HD"="High";
+"IPC_EDITOR"="Edit";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="View 720P HD Video\nAnytime, Anywhere";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live Video\nTwo-way Communication";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Add Camera by Smart Sound Link";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Super Wide Angle at 5 MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="One Click to Share\nMore Joy to Share";
+"IPC_FUNC_TIPS_LABEL"="HD WiFi Camera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"WiFi Camera"="Realtime view";
+"IPC_NEW_DEVICE"="Add new camera";
+"IPC_NAME_PWD_ACNT_SAME" = "Username and password can't be the same.";
+"IPC_PLACE_WAIT"         = "Please wait";
+"Scan the QR code"       = "Scan QR code";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WiFi password";
+"IPC_OPERATE_SUCCESS"       = "Operate successfully";
+
+
+"ReEnterphoneNumber"="Kérem adja meg újra telefon";
+"Phone numbers did not match. Try again."="Telefon nem egyezik. Kérem próbálja újra!";
+"Scan the QR code on the panel's back cover"="Fürkész QR-Kód";
+"Input the QR code"="Kérem adja meg a QR-kód";
+
+
+"Work days" = "Work days";
+"Weekends" = "Weekends";

@@ -1,0 +1,298 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "100";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "10";
+
+"AlertPromptCheckBoxPosY" = "60";
+
+"APPDISPLAYNAME" = "سیستم حفاظتی G5";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+"G5 ALARM"="سیستم حفاظتی G5";
+"Device not configured to send SMS" = "تلفن است که کارت، پیام ارسال نمی شود.";
+
+"OK" = "تایید";
+
+"Zone 1 alarm" = "هشدار زون1 ";
+"Zone 2 alarm" = "هشدار زون2 ";
+"Zone 3 alarm" = "هشدار زون3";
+"Zone 4 alarm" = "هشدار زون4";
+
+"System Activated"="سیستم فعال شده است";
+"Normal Zone Activated"="زون عادی فعال شده است";
+"Home Zone Deactivated"="زون وضعیت منزل غیرفعال شده است";
+"System Deactivated"="سیستم غیرفعال شده است";
+
+"Mute" = "بیصدا";
+"Low" = "صدای کم";
+"Medium" = "متوسط";
+"High" = "صدای زیاد";
+
+"Please waiting..." = "لطفا منتظر بمانید...";
+"Please input the host name" = "لطفا نام دستگاه مرکزی را وارد کنید";
+"Please input the host number" = "لطفا شماره سیم کارت دستگاه مرکزی را وارد کنید";
+"The host name already exists" = "نام دستگاه مرکزی از قبل در سیستم ثبت شده است";
+"The host number already exists" = "شماره سیم کارت از قبل در سیستم ثبت شده است";
+"Please input number"="لطفا عدد را وارد کنید";
+
+"Accounts" = "حساب کاربری";
+"Edit" = "ویرایش";
+"Done" = "تایید";
+"Back" = "بازگشت";
+"Save" = "ذخیره";
+"Cancel" = "لغو";
+
+"Add Host Account" = "افزودن حساب";
+"Edit Host Account" = "ویرایش حساب";
+"Host Name" = "نام دستگاه مرکزی ";
+"Host Number" = "شماره سیم کارت دستگاه مرکزی";
+
+"Disarm" = "غیرفعال";
+"Arm" = "فعال";
+"Call-back Monitor" = "تماس دوطرفه";
+"Modify Host Language" = "انتخاب زبان سیستم";
+"Store Phone Numbers" = "ذخیره شماره های تماس";
+"Change Zone Name" = "تغییر نام زون";
+"Delay Time" = "تعیین زمان تاخیر";
+"System arm delay time" = "مسلح کردن تاخیر";
+"Siren Volume & Ring Time" = "صدای آژیر و مدت زنگ";
+"Phone" = "تلفن";
+"Seconds" = "ثانیه";
+"Mins" = "دقیقه";
+
+"Choose a siren volume" = "میزان صدای آژیر را تعیین کنید";
+"Choose a ring time" = "میزان مدت زنگ را تعیین کنید";
+"Please input phone number" = "لطفا شماره تلفن را وارد کنید";
+
+"Zone information more than %i characters, please correct." = "اطلاعات منطقه بیش از %i کاراکتر، درست است.";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "اگر شما با استفاده از %@ لذت بردن از، به ذهن شما گرفتن یک لحظه به امتیاز دهی هستند؟ آن را نمی خواهد بیش از یک دقیقه طول بکشد. تشکر از حمایت شما!";
+"Rate %@" = "رای دادن به ما؟ %@";
+"No, Thanks" = "نه،متشکرم";
+"Remind me later" = "بعدا یادآوری شود";
+
+"No longer prompted" = "سریع نیست";
+"Please wait for the alarm host to reply to confirmation SMS" = "لطفا برای دریافت پیامک تایید منتظر بمانید";
+"I have received the confirmation SMS" = "پیامک تایید دریافت شد";
+
+"Volume" = "میزان صدا";
+"Time" = "زمان";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "پیام صوتی";
+"Set Alarm At Family" = "حالت منزل(نیمه فعال)";
+"Query Settings" = "درخواست لیست تنظیمات";
+
+"Store Phone & SMS Numbers" = "شماره تماس ها و شماره پیامک ها";
+"RFID Card SMS Notification Number" = "شماره پیامک برای تگ RFID";
+"One Key Pass Number" = "ذخیره شماره تماس سریع";
+
+"Credit Card User Name" = "تغییر نام تگRFID";
+"Disarm Password" = "کد غیرفعال سازی";
+"Independent Zone Delay Time" = "زون تاخیری جداگانه";
+"Single zone alarm delay time" = "منطقه تاخیر تک زنگ";
+
+"Disarm password(4-6 Digits), please correct." = "کد غیرفعال سازی باید بین 4 تا 6 رقم باشد،لطفا اصلاح نمایید .";
+"RFID tags SMS notice more than %i characters, please correct." = "نام تگ RFID باید کمتر از %i حرف باشد ، لطفا اصلاح نمایید .";
+
+"child" = "بچه ها از مدرسه به خانه رسیدند";
+"Nurse" = "مادر از خرید به خانه رسید";
+"Xiao Ming" = " پدر از محل کار به خانه رسید";
+"Xiao Dong" = "خواهر از محل کار به خانه رسید";
+
+"Enter the number of characters that can not be over %i." = "تعداد حروف باید کمتر از %i حرف باشد";
+
+"Remove RFID Card" = "حذف تگRFID";
+
+//************密码设置****************
+"APP CODE"="رمز ورود";
+"ON"="روشن";
+"OFF"="خاموش";
+"Password Lock"="رمز ورود فقل شد";
+"Enter Passcode"="رمز خود را وارد کنید";
+"Re-enter your passcode"="رمز خود را دوباره وارد کنید";
+"Passcode did not match.Try again."="عدم همخوانی رمزها. دوباره سعی کنید";
+"View camera"="نمایش دوربین";
+
+
+//重复日期
+"Timing"="زمان بندی";
+"Action"="Action";
+"Repeat"="Repeat";
+"Mon."="آفتاب.";
+"Tue."="شنبه";
+"Wed."="جمعه";
+"Thu."="پنجشنبه";
+"Fri."="چهارشنبه";
+"Sat."="سه";
+"Sun."="دوشنبه";
+"Never"="هرگز";
+"Everyday"="هر روز";
+"Timed Arm/Disarm"="زمان بندی";
+
+//IPC
+//我的分享
+"IPC_REQ_FAIL"                          = "请求失败";
+"IPC_USENAME_NOT_EXIST"                 = "用户不存在";
+"IPC_NEXT"                              = "下一步";
+"IPC_TIPS"                              = "提醒";
+"IPC_BE_LOGO_OUT"                       = "账户在其他设备端登录，您已被迫下线！";
+"IPC_LOGO_BE_OVERDUE"                   = "账户已和服务器失去联系,请重新登录";
+"IPC_LOGO_BE_UNABLE_NET"                = "网络不稳定，账户已经离线";
+"IPC_GET_STARTED"                       = "开始体验";
+"IPC_CONNECT_DEVICE_FAIL"               = "网络连接失败";
+"IPC_LOGOIN_FAIL"                       = "登录失败";
+"IPC_LOGOIN_ING"                        = "正在登录";
+"IPC_SAVE_PWD"                          = "记住密码";
+"IPC_LOGOIN"                            = "登录";
+"IPC_FORGET_BTN_PWD"                    = "忘记密码";
+"IPC_REGISTER"                          = "注册";
+"IPC_PWD_OR_USENAME_ERROR"              = "密码错误";
+"IPC_PLEASE_INPUT_USENAME"              = "请输入用户名";
+"IPC_PLEASE_INPUT_PWD"                  = "请输入密码";
+"IPC_GET_DEVICE_FAILED"                 = "获取设备列表失败";
+"IPC_INPUT_EMAIL"                       = "请输入邮箱地址";
+"IPC_PLEASE_INPUT_REPWD"                = "请确认密码";
+"IPC_Vertification_LOC"                 = "获取验证码";
+"IPC_PLEASE_INPUT_ID_CODE"              = "请输入验证码";
+"IPC_PWD_NOT_SAME"                      = "两次密码不一致";
+"IPC_INPUT_VAILD_EMAIL"                 = "邮箱格式不正确";
+"IPC_PWD_VALID_JUDGE"                   = "密码必须是数字和字母的组成，且长度大于6位";
+"IPC_REGISTER_NAME_BE_USED"             = "用户已注册";
+"IPC_REGISTER_IDCODE_ERROR"             = "验证码错误";
+"IPC_GET_IDCODE_FAIL"                   = "验证码发送失败";
+"IPC_IDCODE_SENDED_TO_EMAIL"            = "验证码已发送到邮箱";
+"IPC_Registration_successfully"         = "注册成功";
+"IPC_REGISTER_FAIL"                     = "注册失败";
+"IPC_PLEASE_INPUT__NEW_PWD"             = "请输入新密码";
+"IPC_PLEASE_INPUT_NEW_REPWD"            = "请确认新密码";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"  = "重置密码成功";
+"IPC_FORGET_PWD"                        = "重置密码";
+"IPC_MODIFY_FAIL"                       = "修改失败";
+"IPC_DEVICE_UNLINE"                     = "该设备不在线";
+"IPC_CONNECT_DEVICE_TIME_OUT"           = "网络超时";
+"IPC_CONNECTING_DEVICE"                 = "正在连接";
+"IPC_CONNECTED_BUFFER_DATA"             = "正在开启视频";
+"IPC_Shutting_down"                     = "正在关闭视频";
+"IPC_VIDEO_QUALITY"                     = "视频质量";
+"IPC_RELEASE_TO_REFRESH_STATUS"         = "松开";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"       = "下拉";
+"IPC_LOADING_NOW"                       = "正在刷新";
+"IPC_REAL_TIME"                         = "实时观看";
+"IPC_REAL_TIME1"                         = "实时观看";
+"IPC_ADD_DEVICE"                        = "添加设备";
+"IPC_MY_SHARE"                          = "我的分享";
+"IPC_HELP_DOCUMENT_DOCUMENT"            = "帮助";
+"IPC_ABOUT_US"                          = "关于";
+"IPC_OUT_BTN"                           = "退      出";
+"IPC_Refresh_BTN"                       = "刷新";
+"IPC_ADD_CONNECT_DEVICE"                = "搜索局域网设备";
+"IPC_PLEASE_INPUT_DEVICEID"             = "请输入ID号";
+"IPC_SMART_VOIDCE_CONNECT"              = "声控连接";
+"IPC_NO_LOCAL_DEVICE"                   = "无设备";
+"IPC_ADD_SUCCESSED"                     = "添加成功";
+"IPC_ADD_FAIL"                          = "添加失败";
+"IPC_ADD_BY_OTHER_USER"                 = "该设备已被其它用户添加";
+"IPC_DEVICE_NOT_EXIST"                  = "该设备不存在";
+"IPC_ADD_BE_BY_SELY"                    = "该设备已在您的设备列表中";
+"IPC_SEND_VOICE_TIPS"                   = "请将手机靠近设备,等待设备反馈提示音";
+"IPC_SEND_VOICE"                        = "发送声音";
+"IPC_HAVE_GET_DEVICE_SOUND"             = "是否听到设备的回应?";
+"IPC_YES"                               = "是";
+"IPC_NO"                                = "否";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"    = "添加设备已转入后台运行";
+"IPC_DEVICE_NAME"                       = "修改设备名";
+"IPC_SHARE"                             = "分享";
+"IPC_DETELE_DEVICE"                     = "删除设备";
+"IPC_IS_TO_DELDETE_DEVICE"              = "确认删除设备吗?";
+"IPC_DEVICE_SHARE"                      = "设备分享";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"       = "设备已分享给该用户";
+"IPC_TO_DELETE_SHARE_NAME"              = "确认取消分享吗?";
+"IPC_IDCODE_IS_BE_FAIL"                 = "验证码已过期";
+"IPC_LOGO_OUT"                          = "确认退出吗?";
+"IPC_SET"                               = "系统设置";
+"IPC_WIFI_SET"                          = "WiFi配置";
+"IPC_NAME_FLAG"                         = "来源于";
+"IPC_MY_FOLDER"                         = "我的文档";
+"IPC_LOCAL_VIDEO"                       = "本地视频";
+"IPC_LOCAL_IMAGE"                       = "本地图片";
+"IPC_DELETE_FAIL"                       = "操作失败";
+"IPC_NAME_CAN_NULL"                     = "用户名不能为空";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"     = "密码不能为空";
+"IPC_SAVE_IMAGE"                        = "保存";
+"IPC_SAVED_IMAGE"                       = "已保存到相簿";
+"IPC_PLEASE_ENTER_OLD_PWD"              = "请输入旧密码";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"        = "旧密码不正确";
+"IPC_PLEASE_OTHER_SIDE_USENAME"         = "请输入被分享用户名";
+"IPC_DELETE_LOC"                        = "删除";
+"IPC_OK"                                = "确定";
+"IPC_CANCEL"                            = "取消";
+"IPC_ORROR_ID"                          = "ID错误";
+"IPC_VIDEO_QUALITY_LOW"                 = "流畅";
+"IPC_VIDEO_QUALITY_SD"                  = "标清";
+"IPC_VIDEO_QUALITY_HD"                  = "高清";
+"IPC_EDITOR"                            = "编辑";
+"IPC_ADD_NEW_NAME"                      = "爱看";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"    = "高清720P视频直播\n随时随地想看就看";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"    = "实时观看\n语音对讲";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"    = "只需一键连接，即可完成添加设备";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"    = "500万像素超广角镜头\n让您的世界更加广阔";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"    = "视频一键分享\n分享更多精彩";
+"IPC_FUNC_TIPS_LABEL"                   = "高清WiFi网络摄像机";
+"IPC_VERSION_LABEL"                     = "版本号:2.1.0";
+"IPC_NEW_DEVICE"="添加新设备";
+//公共
+
+"WiFi Camera"="我的爱看";
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "请确保手机已连接Wi-Fi网络";
+"IPC_NAME_PWD_ACNT_SAME" = "密码与用户名不能一致";
+"IPC_PLACE_WAIT"         = "请稍后";
+"Scan the QR code"       = "扫描二维码";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WiFi密码";
+"IPC_OPERATE_SUCCESS"       = "操作成功";
+
+
+
+"ReEnterphoneNumber"="تلفن خود را دوباره وارد کنید";
+"Phone numbers did not match. Try again."="عدم همخوانی تلفن ها. دوباره سعی کنید";
+"Scan the QR code on the panel's back cover"="اسکن کد QR";
+"Input the QR code"="کد QR خود را وارد کنید";
+//CZLocalizedString(@"IPC_LOADING_NOW",@"")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Work days" = "Work days";
+"Weekends" = "Weekends";
+
+
+
+
+
+
+
+
+
+
+

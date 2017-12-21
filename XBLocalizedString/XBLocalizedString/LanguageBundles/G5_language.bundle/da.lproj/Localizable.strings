@@ -1,0 +1,270 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 Alarm";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+
+"G5 ALARM"="G5 Plus Alarm";
+"Device not configured to send SMS" = "intet sim-kort, ikke er i stand til at sende SMS";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Zone 1 alarm";
+"Zone 2 alarm" = "Zone 2 alarm";
+"Zone 3 alarm" = "Zone 3 alarm";
+"Zone 4 alarm" = "Zone 4 alarm";
+
+"System Activated"="System aktiveret";
+"Normal Zone Activated"="Normal zone aktiveret";
+"Home Zone Deactivated"="Hjemme zone deaktiveret";
+"System Deactivated"="System deaktiveret";
+
+"Mute" = "Lydløs";
+"Low" = "Lav";
+"Medium" = "Medium";
+"High" = "Høj";
+
+"Please waiting..." = "Vent venligst…";
+"Please input the host name" = "Tast alarm panelets navn";
+"Please input the host number" = "Tast alarm panelets SIM-kort nummer";
+"The host name already exists" = "Panelets navn findes allerede";
+"The host number already exists" = "SIM-kort nummer findes allerede";
+
+"Accounts" = "Konto";
+"Edit" = "Ændre";
+"Done" = "Færdig";
+"Back" = "Tilbage";
+"Save" = "Gem";
+"Cancel" = "Annuller";
+
+"Add Host Account" = "Tilføj Konto";
+"Edit Host Account" = "Rediger konto";
+"Host Name" = "Navn på alarmsystem";
+"Host Number" = "Alarmsystemets telefonnummer";
+
+"Disarm" = "Slå fra";
+"Arm" = "Slå til";
+"Call-back Monitor" = "Aflyt";
+"Modify Host Language" = "Vælg system sprog";
+"Store Phone Numbers" = "Gem telefon og SMS numre";
+"Change Zone Name" = "Navngiv zone";
+"Delay Time" = "Indgangs- og udgangsforsinkelse";
+"System arm delay time" = "System Armering forsinkelsestid";
+"Siren Volume & Ring Time" = "Sirenevolumen og varighed";
+"Phone" = "Telefon";
+"Seconds" = "Sekunder";
+"Mins" = "Minutter";
+
+"Choose a siren volume" = "Vælg sirenevolumen";
+"Choose a ring time" = "Vælg varighed";
+"Please input phone number" = "Venligst indtast telefonnummer";
+
+"Zone information more than %i characters, please correct." = "Zoneinformation overstiger %i karakterer. Prøv igen.";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Syntes du om %@, vil du da bruge et øjeblik på at vurderer den? Det tager kun et øjeblik. Tak for din hjælp!";
+"Rate %@" = "Sats %@";
+"No, Thanks" = "Nej tak";
+"Remind me later" = "Påmind mig senere";
+
+"No longer prompted" = "Vis ikke denne besked mere";
+"Please wait for the alarm host to reply to confirmation SMS" = "Afvent venligst bekræftelses-SMS";
+"I have received the confirmation SMS" = "Bekræftelses-SMS modtaget";
+
+"Volume" = "Volumen";
+"Time" = "Tid";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Indtal besked";
+"Set Alarm At Family" = "Hjemmetilstand";
+"Query Settings" = "Indstillingsrapport";
+
+"Store Phone & SMS Numbers" = "Alarmmodtagere";
+"RFID Card SMS Notification Number" = "Gem SMS-nummer for nøglebrikker";
+"One Key Pass Number" = "Gem hurtigkald-telefonnummer";
+
+"Credit Card User Name" = "Navngiv nøglebrikker";
+"Disarm Password" = "Kode";
+"Independent Zone Delay Time" = "Enhedsforsinkelse";
+"Single zone alarm delay time" = "Enkeltzonealarm forsinkelsestid";
+
+"Disarm password(4-6 Digits), please correct." = "Kode overstiger 4-6 cifre. Prøv igen.";
+"RFID tags SMS notice more than %i characters, please correct." = "Nøglebrik navn overstiger %i karakterer. Prøv igen.";
+
+"child" = "Indtast navn på nøglebrik 1";
+"Nurse" = "Indtast navn på nøglebrik 2";
+"Xiao Ming" = "Indtast navn på nøglebrik 3";
+"Xiao Dong" = "Indtast navn på nøglebrik 4";
+
+"Enter the number of characters that can not be over %i." = "Indtast ikke flere end %i karakterer.";
+
+"Remove RFID Card" = "Slet nøglebrikker";
+
+//************密码设置****************
+"APP CODE"="APP CODE";
+"ON"="Til";
+"OFF"="Fra";
+"Password Lock"="Lås med kode";
+"Enter Passcode"="Skriv din adgangskode";
+"Re-enter your passcode"="Skriv den nye kode igen";
+"Passcode did not match.Try again."="Forkert adgangskode prøv igen";
+"View camera"="Utsikt kamera";
+
+
+//重复日期
+"Timing"="Tidsindstilling";
+"Action"="Aktiv";
+"Repeat"="Gentag";
+"Mon."="Man.";
+"Tue."="Tir.";
+"Wed."="Ons.";
+"Thu."="Tor.";
+"Fri."="Fre.";
+"Sat."="Lør.";
+"Sun."="Søn.";
+"Never"="Aldrig";
+"Everyday"="Hver dag";
+"Timed Arm/Disarm"="Tidsindstilling";
+
+//IPC
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Sørg for, at telefonen har forbindelse med Wi-Fi";
+"English"="Danish";
+"IPC_REQ_FAIL"="Kunne ikke udføres";
+"IPC_USENAME_NOT_EXIST"="Brugernavnet findes ikke";
+"IPC_NEXT"="Næste";
+"IPC_TIPS"="Bemærk";
+"IPC_BE_LOGO_OUT"="Der er logget på denne konto. Du er sat offline";
+"IPC_LOGO_BE_OVERDUE"="Forbindelsen til serveren er afbrudt. Log på igen";
+"IPC_LOGO_BE_UNABLE_NET"="Du er ikke online, da netværket er ustabilt";
+"IPC_GET_STARTED"="Kom i gang";
+"IPC_CONNECT_DEVICE_FAIL"="Der er ingen forbindelse til netværket";
+"IPC_LOGOIN_FAIL"="Du blev ikke logget på";
+"IPC_LOGOIN_ING"="Logger på...";
+"IPC_SAVE_PWD"="Husk adgangskoden";
+"IPC_LOGOIN"="Login";
+"IPC_FORGET_BTN_PWD"="Glemt adgangskoden";
+"IPC_REGISTER"="Registrér";
+"IPC_PWD_OR_USENAME_ERROR"="Forkert adgangskode";
+"IPC_PLEASE_INPUT_USENAME"="Indtast brugernavn";
+"IPC_PLEASE_INPUT_PWD"="Indtast adgangskode";
+"IPC_GET_DEVICE_FAILED"="Kameralisten kunne ikke hentes";
+"IPC_INPUT_EMAIL"="Indtast din e-mailadresse";
+"IPC_PLEASE_INPUT_REPWD"="Bekræft adgangskoden";
+"IPC_Vertification_LOC"="Hent bekræftelseskode";
+"IPC_PLEASE_INPUT_ID_CODE"="Indtast bekræftelseskode";
+"IPC_PWD_NOT_SAME"="Adgangskoden matcher ikke";
+"IPC_INPUT_VAILD_EMAIL"="Forkert e-mailformat";
+"IPC_PWD_VALID_JUDGE"="Adgangskoden skal være på flere end 6 tegn og må kun indeholde tal og bogstaver";
+"IPC_REGISTER_NAME_BE_USED"="Kontoen er nu registreret";
+"IPC_REGISTER_IDCODE_ERROR"="Bekræftelseskoden er forkert";
+"IPC_GET_IDCODE_FAIL"="Bekræftelseskoden kunne ikke afsendes";
+"IPC_IDCODE_SENDED_TO_EMAIL"="Bekræftelseskoden er nu sendt til din e-mailadresse";
+"IPC_Registration_successfully"="Registrering er nu udført";
+"IPC_REGISTER_FAIL"="Registrering blev ikke udført";
+"IPC_PLEASE_INPUT__NEW_PWD"="Indtast ny adgangskode";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Bekræft ny adgangskode";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Adgangskoden er nu ændret";
+"IPC_FORGET_PWD"="Skift adgangskode";
+"IPC_MODIFY_FAIL"="Opsætning blev ikke udført";
+"IPC_DEVICE_UNLINE"="Kameraet er offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Netværket har timeout. Prøv igen";
+"IPC_CONNECTING_DEVICE"="Opretter forbindelse…";
+"IPC_CONNECTED_BUFFER_DATA"="Starter video-stream...";
+"IPC_Shutting_down"="Afslutter video-stream...";
+"IPC_VIDEO_QUALITY"="Videokvalitet";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Slip";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Træk ned";
+"IPC_LOADING_NOW"="Opdaterer...";
+"IPC_REAL_TIME"="Visning i realtid";
+"IPC_REAL_TIME1"="Visning i realtid";
+"IPC_ADD_DEVICE"="Tilføj kamera";
+"IPC_MY_SHARE"="Mine delinger";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Hjælp";
+"IPC_ABOUT_US"="Om os";
+"IPC_OUT_BTN"="Log ud";
+"IPC_Refresh_BTN"="Opdatér";
+"IPC_ADD_CONNECT_DEVICE"="Søger efter lokalt kamera";
+"IPC_PLEASE_INPUT_DEVICEID"="Enhedens ID-nummer";
+"IPC_SMART_VOIDCE_CONNECT"="Intelligent lydlink";
+"IPC_NO_LOCAL_DEVICE"="Intet kamera fundet";
+"IPC_ADD_SUCCESSED"="Kamera tilføjet";
+"IPC_ADD_FAIL"="Kamera kunne ikke tilføjes  ";
+"IPC_ADD_BY_OTHER_USER"="Kameraet benyttes allerede";
+"IPC_DEVICE_NOT_EXIST"="Kameraet findes ikke";
+"IPC_ADD_BE_BY_SELY"="Kameraet findes allerede på listen";
+"IPC_SEND_VOICE_TIPS"="Placér din telefon tæt på kameraet, og vent på klartonen";
+"IPC_SEND_VOICE"="Send lyd";
+"IPC_HAVE_GET_DEVICE_SOUND"="Hørte du en svartone fra enheden?";
+"IPC_YES"="Ja";
+"IPC_NO"="Nej";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Kamera tilføjes i baggrunden";
+"IPC_DEVICE_NAME"="Redigér kameraets navn";
+"IPC_SHARE"="Deling";
+"IPC_DETELE_DEVICE"="Slet kamera";
+"IPC_IS_TO_DELDETE_DEVICE"="Skal kameraet slettes?";
+"IPC_DEVICE_SHARE"="Del dette kamera";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Deling er udført";
+"IPC_TO_DELETE_SHARE_NAME"="Skal denne deling annulleres?";
+"IPC_IDCODE_IS_BE_FAIL"="Bekræftelseskode er udløbet";
+"IPC_LOGO_OUT"="Vil du lukke?";
+"IPC_SET"="Systemindstillinger";
+"IPC_WIFI_SET"="Opsætning af WiFi";
+"IPC_NAME_FLAG"="Fra";
+"IPC_MY_FOLDER"="Min mappe";
+"IPC_LOCAL_VIDEO"="Gemte videoer";
+"IPC_LOCAL_IMAGE"="Gemte billeder";
+"IPC_DELETE_FAIL"="Handlingen blev ikke udført";
+"IPC_NAME_CAN_NULL"="Brugernavnet mangler";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Adgangskoden mangler";
+"IPC_SAVE_IMAGE"="Gem";
+"IPC_SAVED_IMAGE"="Gemt til album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Ingrese la contraseña antigua";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Forkert gamle kodeord";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="Modtage- e-mail";
+"IPC_DELETE_LOC"="Slette";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Annuller";
+"IPC_ORROR_ID"="Forkert ID-nummer";
+"IPC_VIDEO_QUALITY_LOW"="Lav";
+"IPC_VIDEO_QUALITY_SD"="Medium";
+"IPC_VIDEO_QUALITY_HD"="Høj";
+"IPC_EDITOR"="Rediger";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="Se 720p HD-video\nuanset tidspunkt og sted";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live video To-vejs kommunikation";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Lydlink";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Super vidvinkel på 5 MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="Èt klik for at dele\nMere sjov til deling";
+"IPC_FUNC_TIPS_LABEL"="WiFi HD kamera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"IPC_NEW_DEVICE"="Tilføj nyt kamera";
+"IPC_NAME_PWD_ACNT_SAME" = "Brugernavnet og adgangskoden må ikke være ens";
+"IPC_PLACE_WAIT"         = "Vent venligst";
+"Scan the QR code"       = "Scan QR-kode";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "Adgangskode til WiFi";
+"IPC_OPERATE_SUCCESS"       = "Handlinge er nu udført";
+
+"WiFi Camera"="Realtime view";
+
+"ReEnterphoneNumber"="Skriv den telefonnummerigen";
+"Phone numbers did not match. Try again."="Forkert telefonnummer, prøv igen";
+"Scan the QR code on the panel's back cover"="Scanne nummeret på QR-koden";
+"Input the QR code"="Indtast nummeret på QR-koden";
+
+
+"Work days" = "Hverdage";
+"Weekends" = "Weekender";

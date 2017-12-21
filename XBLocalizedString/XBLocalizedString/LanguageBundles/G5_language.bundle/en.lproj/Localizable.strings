@@ -1,0 +1,275 @@
+/* 
+ Localizable.strings
+ G3AlarmSystem
+ 
+ Created by apple on 12-5-2.
+ Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+ */
+
+"DelayTimeComponentWith" = "150";
+"VolAndDurationComponent1With" = "100";
+"VolAndDurationComponent2With" = "100";
+"VolAndDurationComponent2TextMoveWidth" = "17";
+
+"AlertPromptCheckBoxPosY" = "80";
+
+"APPDISPLAYNAME" = "G5 Alarm";
+"EditButtonFontSize" = "15";
+
+//*********************** 以下部分需要翻译, 而且只翻译 = 号右边的文字*********************
+
+"G5 ALARM"="G5 Plus Alarm";
+"Device not configured to send SMS" = "No sim card, unable to send SMS.";
+
+"OK" = "OK";
+
+"Zone 1 alarm" = "Zone 1 alarm";
+"Zone 2 alarm" = "Zone 2 alarm";
+"Zone 3 alarm" = "Zone 3 alarm";
+"Zone 4 alarm" = "Zone 4 alarm";
+
+"System Activated"="System Activated";
+"Normal Zone Activated"="Normal Zone Activated";
+"Home Zone Deactivated"="Home Zone Deactivated"; 
+"System Deactivated"="System Deactivated";
+
+"Mute" = "Mute";
+"Low" = "Low";
+"Medium" = "Medium";
+"High" = "High";
+
+"Please waiting..." = "Please wait…";
+"Please input the host name" = "Please enter the name of alarm panel";
+"Please input the host number" = "Please enter SIM card No. of alarm panel";
+"The host name already exists" = "The panel name already exists";
+"The host number already exists" = "The SIM card No. already exists";
+
+"Accounts" = "Account";
+"Edit" = "Edit";
+"Done" = "Done";
+"Back" = "Back";
+"Save" = "Save";
+"Cancel" = "Cancel";
+
+"Add Host Account" = "Add Account";
+"Edit Host Account" = "Edit Account";
+"Host Name" = "Name of Alarm Panel";
+"Host Number" = "SIM Card No. of Alarm Panel";
+
+"Disarm" = "Disarm";
+"Arm" = "Arm";
+"Call-back Monitor" = "Two-Way Talk";
+"Modify Host Language" = "Select System Language";
+"Store Phone Numbers" = "Store Phone Numbers";
+"Change Zone Name" = "Change Zone Name";
+"Delay Time" = "Entry & Exit Delay";
+"System arm delay time" = "System Arm Delay Time";
+"Siren Volume & Ring Time" = "Siren Volume & Ring Time";
+"Phone" = "Phone";
+"Seconds" = "Seconds";
+"Mins" = "Min";
+//"Mins" = "Minutes";
+
+"Choose a siren volume" = "Choose a siren volume";
+"Choose a ring time" = "Choose a ring time";
+//"Please input phone number" = "Please enter phone number";
+"Please input phone number" = "Phone number";
+
+"Zone information more than %i characters, please correct." = "Zone information more than %i characters, please correct.";
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+"Rate %@" = "Rate %@";
+"No, Thanks" = "No, Thanks";
+"Remind me later" = "Remind Me Later";
+
+"No longer prompted" = "No more prompt";
+"Please wait for the alarm host to reply to confirmation SMS" = "Please wait for confirmation SMS";
+"I have received the confirmation SMS" = "Confirmation SMS received";
+
+"Volume" = "Volume";
+"Time" = "Time";
+
+//********** G5 新增加的 **********
+
+"Call-back Message" = "Voice Memo";
+"Set Alarm At Family" = "Stay";
+"Query Settings" = "Settings Inquiry";
+
+"Store Phone & SMS Numbers" = "Phone Numbers & SMS Numbers";
+"RFID Card SMS Notification Number" = "SMS Number for RFID Tags";
+"One Key Pass Number" = "Store Speed Dial Number";
+
+"Credit Card User Name" = "Change RFID Tags Name";
+"Disarm Password" = "Disarm Passcode";
+"Independent Zone Delay Time" = "Single Zone Delay Time";
+"Single zone alarm delay time" = "Single Zone Alarm Delay Time";
+
+"Disarm password(4-6 Digits), please correct." = "Disarm passcode exceeds 4-6 digits, please correct.";
+"RFID tags SMS notice more than %i characters, please correct." = "RFID Tags name exceeds %i characters, please correct.";
+
+"child" = "Kids come home from school";
+"Nurse" = "Nurse come home from grocery shop";
+"Xiao Ming" = "Paul come home from work"; 
+"Xiao Dong" = "Anna come home from work";
+
+"Enter the number of characters that can not be over %i." = "Do not enter characters more than %i.";
+
+"Remove RFID Card" = "Delete RFID";
+
+//************密码设置****************
+"APP CODE" = "Passcode";
+"ON"="ON";
+"OFF"="OFF";
+"Password Lock"="Password Lock";
+"Enter Passcode" = "Enter your passcode";
+"Re-enter your passcode"="Re-enter your passcode";
+"Passcode did not match.Try again."="Passcode did not match.Try again.";
+"View camera"="View camera";
+
+"Input the QR code"="Input the QR code";
+"Scan the QR code on the panel's back cover"="Scan the QR Code on the Panel's Back Cover";
+
+"Timing"="Timing";
+"Action"="Action";
+"Repeat"="Repeat";
+"Never"="Never";
+"Everyday"="Everyday";
+"Action"="Action";
+"Mon."="Mon.";
+"Tue."="Tue.";
+"Wed."="Wed.";
+"Thu."="Thu.";
+"Fri."="Fri.";
+"Sat."="Sat.";
+"Sun."="Sun.";
+"Timed Arm/Disarm"="Timing";
+
+//IPC
+
+"IPC_CONNECT_WIFI_THAT_DEVICE_NEED"     = "Make sure your phone is connected with Wi-Fi";
+"IPC_REQ_FAIL"="Request failed";
+"IPC_USENAME_NOT_EXIST"="Username does not exist";
+"IPC_NEXT"="Next";
+"IPC_TIPS"="Note";
+"IPC_BE_LOGO_OUT"="This account has been logged in. You are offline ";
+"IPC_LOGO_BE_OVERDUE"="Lost connection with server, please login again";
+"IPC_LOGO_BE_UNABLE_NET"="You are offline because of unstable network";
+"IPC_GET_STARTED"="Get Started";
+"IPC_CONNECT_DEVICE_FAIL"="Network connection failed";
+"IPC_LOGOIN_FAIL"="Login failed";
+"IPC_LOGOIN_ING"="Logging in...";
+"IPC_SAVE_PWD"="Remember password";
+"IPC_LOGOIN"="Login";
+"IPC_FORGET_BTN_PWD"="Forgot password";
+"IPC_REGISTER"="Register";
+"IPC_PWD_OR_USENAME_ERROR"="Incorrect password";
+"IPC_PLEASE_INPUT_USENAME"="Enter username";
+"IPC_PLEASE_INPUT_PWD"="Enter password";
+"IPC_GET_DEVICE_FAILED"="Failed to get camera list";
+"IPC_INPUT_EMAIL"="Enter your email address";
+"IPC_PLEASE_INPUT_REPWD"="Confirm password";
+"IPC_Vertification_LOC"="Get verification code";
+"IPC_PLEASE_INPUT_ID_CODE"="Enter verification code";
+"IPC_PWD_NOT_SAME"="Password does not match";
+"IPC_INPUT_VAILD_EMAIL"="Incorrect email format";
+"IPC_PWD_VALID_JUDGE"="Password must be more than 6 digits and consisted by numbers and letters only";
+"IPC_REGISTER_NAME_BE_USED"="The account has been registered";
+"IPC_REGISTER_IDCODE_ERROR"="Incorrect verification code";
+"IPC_GET_IDCODE_FAIL"="Failed to send verification code";
+"IPC_IDCODE_SENDED_TO_EMAIL"="The verification code has been sent to your email";
+"IPC_Registration_successfully"="Registration successfully";
+"IPC_REGISTER_FAIL"="Registration failed";
+"IPC_PLEASE_INPUT__NEW_PWD"="Enter new password";
+"IPC_PLEASE_INPUT_NEW_REPWD"="Confirm new password";
+"IPC_MODIFY_PWD_SUCCESS_PLEASE_GET_IT"="Password changed successfully";
+"IPC_FORGET_PWD"="Change password";
+"IPC_MODIFY_FAIL"="Setup failed";
+"IPC_DEVICE_UNLINE"="Camera offline";
+"IPC_CONNECT_DEVICE_TIME_OUT"="Network timed out, please try again";
+"IPC_CONNECTING_DEVICE"="Connecting...";
+"IPC_CONNECTED_BUFFER_DATA"="Starting videostream..";
+"IPC_Shutting_down"="Ending videostream..";
+"IPC_VIDEO_QUALITY"="Video quality";
+"IPC_RELEASE_TO_REFRESH_STATUS"="Release";
+"IPC_PULL_DOWN_TO_REFRESH_STATUS"="Pull down";
+"IPC_LOADING_NOW"="Refreshing...";
+"IPC_REAL_TIME"="Realtime view";
+"IPC_REAL_TIME1"="Realtime view";
+"IPC_ADD_DEVICE"="Add camera";
+"IPC_MY_SHARE"="My shares";
+"IPC_HELP_DOCUMENT_DOCUMENT"="Help";
+"IPC_ABOUT_US"="About us";
+"IPC_OUT_BTN"="Log out";
+"IPC_Refresh_BTN"="Refresh";
+"IPC_ADD_CONNECT_DEVICE"="Search local camera";
+"IPC_PLEASE_INPUT_DEVICEID"="Device ID No.";
+"IPC_SMART_VOIDCE_CONNECT"="Smart sound link";
+"IPC_NO_LOCAL_DEVICE"="No camera found";
+"IPC_ADD_SUCCESSED"="Camera added";
+"IPC_ADD_FAIL"="Failed to add camera ";
+"IPC_ADD_BY_OTHER_USER"="This camera is occupied";
+"IPC_DEVICE_NOT_EXIST"="This camera does not exist";
+"IPC_ADD_BE_BY_SELY"="The camera already listed";
+"IPC_SEND_VOICE_TIPS"="Hold phone close to the camera and await respond tone";
+"IPC_SEND_VOICE"="Send sound";
+"IPC_HAVE_GET_DEVICE_SOUND"="Did you hear a respond tone from device?";
+"IPC_YES"="Yes";
+"IPC_NO"="No";
+"IPC_WILL_ADD_FOR_YOU_IN_BACKGROUND"="Adding camera in background";
+"IPC_DEVICE_NAME"="Change camera name";
+"IPC_SHARE"="Sharing";
+"IPC_DETELE_DEVICE"="Delete camera";
+"IPC_IS_TO_DELDETE_DEVICE"="Confirm to delete the camera?";
+"IPC_DEVICE_SHARE"="Share the camera";
+"IPC_SHARE_SUCCESS_TO_OTHER_SIDE"="Sharing succeeded";
+"IPC_TO_DELETE_SHARE_NAME"="Confirm to cancel sharing?";
+"IPC_IDCODE_IS_BE_FAIL"="Verification code expired";
+"IPC_LOGO_OUT"="Are you sure to exit?";
+"IPC_SET"="System settings";
+"IPC_WIFI_SET"="WiFi setup";
+"IPC_NAME_FLAG"="From";
+"IPC_MY_FOLDER"="My folder";
+"IPC_LOCAL_VIDEO"="Saved videos";
+"IPC_LOCAL_IMAGE"="Saved pictures";
+"IPC_DELETE_FAIL"="Operation failed";
+"IPC_NAME_CAN_NULL"="Username is null";
+"IPC_PWD_MUST_BE_SAME_AND_NOT_NULL"="Password is null";
+"IPC_SAVE_IMAGE"="Save";
+"IPC_SAVED_IMAGE"="Saved to album";
+"IPC_PLEASE_ENTER_OLD_PWD"="Enter old password";
+"IPC_PLEASE_ENTER_OLD_PWD_ERROR"="Wrong old password";
+"IPC_PLEASE_OTHER_SIDE_USENAME"="Recepient's email";
+"IPC_DELETE_LOC"="Delete";
+"IPC_OK"="OK";
+"IPC_CANCEL"="Cancel";
+"IPC_ORROR_ID"="Incorrect ID format";
+"IPC_VIDEO_QUALITY_LOW"="Low";
+"IPC_VIDEO_QUALITY_SD"="Medium";
+"IPC_VIDEO_QUALITY_HD"="High";
+"IPC_EDITOR"="Edit";
+"IPC_ADD_NEW_NAME"="CAM";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_1"="View 720P HD Video\nAnytime, Anywhere";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_2"="Live Video\nTwo-way Communication";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_3"="Add Camera by Smart Sound Link";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_4"="Super Wide Angle at 5 MP";
+"IPC_HELP_DOCUMENT_LIST_FOR_FIRST_5"="One Click to Share\nMore Joy to Share";
+"IPC_FUNC_TIPS_LABEL"="HD WiFi Camera";
+"IPC_VERSION_LABEL"="Version 2.1.0";
+"WiFi Camera"="WiFi Camera";
+"IPC_NEW_DEVICE"="Add new camera";
+"IPC_NAME_PWD_ACNT_SAME" = "Username and password can't be the same.";
+"IPC_PLACE_WAIT"         = "Please wait";
+"Scan the QR code"       = "Scan QR code";
+"IPC_PLEASE_INPUT_WIFI_PWD" = "WiFi password";
+"IPC_OPERATE_SUCCESS"       = "Operate successfully";
+
+
+"ReEnterphoneNumber"="Re-enter your phone number";
+"Phone numbers did not match. Try again."="Phone numbers did not match. Try again.";
+"Phone numbers did not match. Try again."="Phone numbers did not match. Try again.";
+
+
+"Work days" = "Work days";
+"Weekends" = "Weekends";
+
+"justTest" = "justTest";
