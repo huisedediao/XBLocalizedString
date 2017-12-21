@@ -5,6 +5,7 @@
 <br>2.用于热切换App显示的语言
 <br><br><br>
 ### 使用：
+![image](https://github.com/huisedediao/XBAlertView/raw/master/showNew.png)<br/>
 <br>
 ### 从自定义语言包的内容翻译文件
 <pre>
@@ -54,7 +55,7 @@
 ### 自定义语言包
 <br><br>
 <br>
-![image](https://github.com/huisedediao/XBAlertView/raw/master/showNew.png)<br/>
+
 ![image](https://github.com/huisedediao/XBLocalizedString/raw/master/show.png)
 <br><br>以上图的语言包为例，设置方法如下
 <pre>
